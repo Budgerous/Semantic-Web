@@ -1,0 +1,644 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/pedro/ontologies/2016/11/series"
+     xml:base="http://www.semanticweb.org/pedro/ontologies/2016/11/series"
+     xmlns:foaf1="http://xmlns.com/foaf/0.1/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:ns="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:wot="http://xmlns.com/wot/0.1/"
+     xmlns:foaf="http://xmlns.com/foaf/spec/#"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series">
+        <owl:imports rdf:resource="http://xmlns.com/foaf/0.1/"/>
+        <owl:versionInfo>0.0.1</owl:versionInfo>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#broadcasts -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#broadcasts">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isFromNetwork"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Network"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">broadcasts</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#certifies -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#certifies">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasCertification"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Certification"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">certifies</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasActor -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasActor">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:label xml:lang="en">has actor</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasArtDirector -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasArtDirector">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:label xml:lang="en">has art director</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasCameraDirector -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasCameraDirector">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:label xml:lang="en">has camera director</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasCertification -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasCertification">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Certification"/>
+        <rdfs:label xml:lang="en">has certification</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasCostumeAndMakeupArtist -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasCostumeAndMakeupArtist">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:label xml:lang="en">has costume and makeup artist</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasDirector -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasDirector">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:label xml:lang="en">has director</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasEpisode -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasEpisode">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isEpisodeOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Season"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Episode"/>
+        <rdfs:label xml:lang="en">has episode</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasGenre -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasGenre">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isGenreOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Genre"/>
+        <rdfs:label xml:lang="en">has genre</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasProducer -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasProducer">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:label xml:lang="en">has producer</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasSeason -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasSeason">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isSeasonOf"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Season"/>
+        <rdfs:label xml:lang="en">has season</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasSoundEngineer -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasSoundEngineer">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:label xml:lang="en">has sound engineer</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasWriter -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#hasWriter">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:label xml:lang="en">has writer</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isActorOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isActorOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">is actor on</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isArtDirectorOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isArtDirectorOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">is art director on</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isCameraDirectorOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isCameraDirectorOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">is camera director on</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isCostumeAndMakeUpArtistOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isCostumeAndMakeUpArtistOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">is costume and make-up artist on</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isDirectorOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isDirectorOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">is director on</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isEpisodeOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isEpisodeOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Episode"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Season"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">is episode of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isFromNetwork -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isFromNetwork">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Network"/>
+        <rdfs:label xml:lang="en">is from network</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isGenreOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isGenreOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Genre"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">is genre of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isProducerOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isProducerOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">is producer on</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isSeasonOf -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isSeasonOf">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Season"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">is season of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isSoundEngineerOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isSoundEngineerOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">is sound engineer on</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#isWriterOn -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#isWriterOn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:label xml:lang="en">is writer on</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#id -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#id">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Episode"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#imdb -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#imdb">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#id"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Episode"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#name">
+        <owl:equivalentProperty rdf:resource="http://xmlns.com/foaf/0.1/name"/>
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Network"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#Name"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#picture -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#picture">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#rating -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#rating">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#runtime -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#runtime">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#slug -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#slug">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#id"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Episode"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#tmdb -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#tmdb">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#id"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Episode"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#trakt -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#trakt">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#id"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Episode"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#tvdb -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#tvdb">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#id"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Episode"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#tvrage -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#tvrage">
+        <rdfs:subPropertyOf rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#id"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Episode"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#year -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#year">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/name -->
+
+    <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/name"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#Certification -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Certification">
+        <rdfs:comment xml:lang="en">Evaluates the content and reports the suitability of television programs for children, teenagers, or adults</rdfs:comment>
+        <rdfs:label xml:lang="en">Certification</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#Episode -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Episode">
+        <rdfs:comment xml:lang="en">A single coherent narrative unit within a series</rdfs:comment>
+        <rdfs:label xml:lang="en">Episode</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#Genre -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Genre">
+        <rdfs:comment xml:lang="en">Series category</rdfs:comment>
+        <rdfs:label xml:lang="en">Genre</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#Network -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Network">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+        <rdfs:comment xml:lang="en">Company that broadcasts the series</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Person">
+        <owl:equivalentClass rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+        <rdfs:comment xml:lang="en">Someone involved in the making of a series</rdfs:comment>
+        <rdfs:label xml:lang="en">Person</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#Season -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Season">
+        <rdfs:comment xml:lang="en">A connected set of television program episodes that run under the same title</rdfs:comment>
+        <rdfs:label xml:lang="en">Season</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Series">
+        <rdfs:subClassOf rdf:resource="http://xmlns.com/foaf/0.1/Project"/>
+        <rdfs:comment xml:lang="en">A segment of content intended for broadcast on television, other than a commercial, trailer, or any other segment of content not serving as attraction for viewership</rdfs:comment>
+        <rdfs:label xml:lang="en">Series</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://xmlns.com/foaf/0.1/Person -->
+
+    <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Person"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-14 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-14">
+        <rdf:type rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Certification"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-G -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-G">
+        <rdf:type rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Certification"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-MA -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-MA">
+        <rdf:type rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Certification"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-PG -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-PG">
+        <rdf:type rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Certification"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-Y -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-Y">
+        <rdf:type rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Certification"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-Y7 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-Y7">
+        <rdf:type rdf:resource="http://www.semanticweb.org/pedro/ontologies/2016/11/series#Certification"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AllDifferent"/>
+        <owl:distinctMembers rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-14"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-G"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-MA"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-PG"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-Y"/>
+            <rdf:Description rdf:about="http://www.semanticweb.org/pedro/ontologies/2016/11/series#TV-Y7"/>
+        </owl:distinctMembers>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.6.20160910-2108) https://github.com/owlcs/owlapi -->
+
