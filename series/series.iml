@@ -9,5 +9,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="jena" level="project" />
     <orderEntry type="library" name="org.json:json:20160810" level="project" />
+    <orderEntry type="library" name="com.sparkjava:spark-core:2.5.4" level="project" />
+    <orderEntry type="library" name="com.sparkjava:spark-template-freemarker:2.3" level="project" />
   </component>
 </module>

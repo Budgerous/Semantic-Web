@@ -1,6 +1,6 @@
 [
     {
-        "last_updated": 1481256458572, 
+        "last_updated": 1483582305234, 
         "title": "Game of Thrones", 
         "tvdb_id": "121361", 
         "imdb_id": "tt0944947", 
@@ -15,7 +15,7 @@
         "slug": "game-of-thrones"
     }, 
     {
-        "last_updated": 1481256223963, 
+        "last_updated": 1483581941843, 
         "title": "Breaking Bad", 
         "tvdb_id": "81189", 
         "imdb_id": "tt0903747", 
@@ -30,7 +30,7 @@
         "slug": "breaking-bad"
     }, 
     {
-        "last_updated": 1481256181698, 
+        "last_updated": 1483581869097, 
         "title": "The Big Bang Theory", 
         "tvdb_id": "80379", 
         "imdb_id": "tt0898266", 
@@ -45,7 +45,7 @@
         "slug": "the-big-bang-theory"
     }, 
     {
-        "last_updated": 1481257186962, 
+        "last_updated": 1483583068564, 
         "title": "The Walking Dead", 
         "tvdb_id": "153021", 
         "imdb_id": "tt1520211", 
@@ -60,7 +60,7 @@
         "slug": "the-walking-dead"
     }, 
     {
-        "last_updated": 1481256363041, 
+        "last_updated": 1483582192023, 
         "title": "Dexter", 
         "tvdb_id": "79349", 
         "imdb_id": "tt0773262", 
@@ -75,7 +75,7 @@
         "slug": "dexter"
     }, 
     {
-        "last_updated": 1481256548632, 
+        "last_updated": 1483582398973, 
         "title": "How I Met Your Mother", 
         "tvdb_id": "75760", 
         "imdb_id": "tt0460649", 
@@ -90,11 +90,11 @@
         "slug": "how-i-met-your-mother"
     }, 
     {
-        "last_updated": 1481256988192, 
+        "last_updated": 1483582850895, 
         "title": "Sherlock", 
         "tvdb_id": "176941", 
         "imdb_id": "tt1475582", 
-        "num_seasons": 3, 
+        "num_seasons": 4, 
         "year": "2010", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
@@ -105,7 +105,7 @@
         "slug": "sherlock"
     }, 
     {
-        "last_updated": 1481256122366, 
+        "last_updated": 1483581775136, 
         "title": "Arrow", 
         "tvdb_id": "257655", 
         "imdb_id": "tt2193021", 
@@ -120,11 +120,11 @@
         "slug": "arrow"
     }, 
     {
-        "last_updated": 1481256537526, 
+        "last_updated": 1483582386970, 
         "title": "Homeland", 
         "tvdb_id": "247897", 
         "imdb_id": "tt1796960", 
-        "num_seasons": 4, 
+        "num_seasons": 5, 
         "year": "2011", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
@@ -135,7 +135,7 @@
         "slug": "homeland"
     }, 
     {
-        "last_updated": 1481256682282, 
+        "last_updated": 1483582540252, 
         "title": "Lost", 
         "tvdb_id": "73739", 
         "imdb_id": "tt0411008", 
@@ -150,7 +150,7 @@
         "slug": "lost"
     }, 
     {
-        "last_updated": 1481256545633, 
+        "last_updated": 1483582396599, 
         "title": "House", 
         "tvdb_id": "73255", 
         "imdb_id": "tt0412142", 
@@ -165,7 +165,7 @@
         "slug": "house"
     }, 
     {
-        "last_updated": 1481256450491, 
+        "last_updated": 1483582297383, 
         "title": "Fringe", 
         "tvdb_id": "82066", 
         "imdb_id": "tt1119644", 
@@ -180,7 +180,7 @@
         "slug": "fringe"
     }, 
     {
-        "last_updated": 1481256547013, 
+        "last_updated": 1483582397079, 
         "title": "House of Cards", 
         "tvdb_id": "262980", 
         "imdb_id": "tt1856010", 
@@ -195,7 +195,7 @@
         "slug": "house-of-cards-2013"
     }, 
     {
-        "last_updated": 1481257048255, 
+        "last_updated": 1483582915713, 
         "title": "Suits", 
         "tvdb_id": "247808", 
         "imdb_id": "tt1632701", 
@@ -210,7 +210,7 @@
         "slug": "suits"
     }, 
     {
-        "last_updated": 1481257051594, 
+        "last_updated": 1483582920588, 
         "title": "Supernatural", 
         "tvdb_id": "78901", 
         "imdb_id": "tt0460681", 
@@ -225,7 +225,7 @@
         "slug": "supernatural"
     }, 
     {
-        "last_updated": 1481256754651, 
+        "last_updated": 1483582612949, 
         "title": "Modern Family", 
         "tvdb_id": "95011", 
         "imdb_id": "tt1442437", 
@@ -240,11 +240,11 @@
         "slug": "modern-family"
     }, 
     {
-        "last_updated": 1481256373292, 
+        "last_updated": 1483582207145, 
         "title": "Doctor Who", 
         "tvdb_id": "78804", 
         "imdb_id": "tt0436992", 
-        "num_seasons": 5, 
+        "num_seasons": 6, 
         "year": "2005", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
@@ -255,7 +255,7 @@
         "slug": "doctor-who-2005"
     }, 
     {
-        "last_updated": 1481256830759, 
+        "last_updated": 1483582687643, 
         "title": "Orange Is the New Black", 
         "tvdb_id": "264586", 
         "imdb_id": "tt2372162", 
@@ -270,7 +270,7 @@
         "slug": "orange-is-the-new-black"
     }, 
     {
-        "last_updated": 1481256715269, 
+        "last_updated": 1483582574204, 
         "title": "Marvel's Agents of S.H.I.E.L.D.", 
         "tvdb_id": "263365", 
         "imdb_id": "tt2364582", 
@@ -285,7 +285,7 @@
         "slug": "marvel-s-agents-of-s-h-i-e-l-d"
     }, 
     {
-        "last_updated": 1481256997409, 
+        "last_updated": 1483582860677, 
         "title": "The Simpsons", 
         "tvdb_id": "71663", 
         "imdb_id": "tt0096697", 
@@ -300,7 +300,7 @@
         "slug": "the-simpsons"
     }, 
     {
-        "last_updated": 1481257139577, 
+        "last_updated": 1483583015709, 
         "title": "True Detective", 
         "tvdb_id": "270633", 
         "imdb_id": "tt2356777", 
@@ -315,7 +315,7 @@
         "slug": "true-detective"
     }, 
     {
-        "last_updated": 1481256078088, 
+        "last_updated": 1483581730818, 
         "title": "American Horror Story", 
         "tvdb_id": "250487", 
         "imdb_id": "tt1844624", 
@@ -330,7 +330,7 @@
         "slug": "american-horror-story"
     }, 
     {
-        "last_updated": 1481257139468, 
+        "last_updated": 1483583015431, 
         "title": "True Blood", 
         "tvdb_id": "82283", 
         "imdb_id": "tt0844441", 
@@ -345,7 +345,7 @@
         "slug": "true-blood"
     }, 
     {
-        "last_updated": 1481256432274, 
+        "last_updated": 1483582276398, 
         "title": "The Flash", 
         "tvdb_id": "279121", 
         "imdb_id": "tt3107288", 
@@ -360,22 +360,7 @@
         "slug": "the-flash-2014"
     }, 
     {
-        "last_updated": 1481256295432, 
-        "title": "Community", 
-        "tvdb_id": "94571", 
-        "imdb_id": "tt1439629", 
-        "num_seasons": 6, 
-        "year": "2009", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1439629", 
-        "slug": "community"
-    }, 
-    {
-        "last_updated": 1481256862392, 
+        "last_updated": 1483582716878, 
         "title": "Person of Interest", 
         "tvdb_id": "248742", 
         "imdb_id": "tt1839578", 
@@ -390,7 +375,22 @@
         "slug": "person-of-interest"
     }, 
     {
-        "last_updated": 1481256826852, 
+        "last_updated": 1483582071762, 
+        "title": "Community", 
+        "tvdb_id": "94571", 
+        "imdb_id": "tt1439629", 
+        "num_seasons": 6, 
+        "year": "2009", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1439629", 
+        "slug": "community"
+    }, 
+    {
+        "last_updated": 1483582683577, 
         "title": "Once Upon a Time", 
         "tvdb_id": "248835", 
         "imdb_id": "tt1843230", 
@@ -405,7 +405,7 @@
         "slug": "once-upon-a-time"
     }, 
     {
-        "last_updated": 1481257180438, 
+        "last_updated": 1483583062092, 
         "title": "Vikings", 
         "tvdb_id": "260449", 
         "imdb_id": "tt2306299", 
@@ -420,7 +420,7 @@
         "slug": "vikings"
     }, 
     {
-        "last_updated": 1481256419089, 
+        "last_updated": 1483582262420, 
         "title": "Family Guy", 
         "tvdb_id": "75978", 
         "imdb_id": "tt0182576", 
@@ -435,7 +435,7 @@
         "slug": "family-guy"
     }, 
     {
-        "last_updated": 1481256885388, 
+        "last_updated": 1483582739079, 
         "title": "Prison Break", 
         "tvdb_id": "75340", 
         "imdb_id": "tt0455275", 
@@ -450,7 +450,7 @@
         "slug": "prison-break"
     }, 
     {
-        "last_updated": 1481256803946, 
+        "last_updated": 1483582660651, 
         "title": "New Girl", 
         "tvdb_id": "248682", 
         "imdb_id": "tt1826940", 
@@ -465,11 +465,11 @@
         "slug": "new-girl"
     }, 
     {
-        "last_updated": 1481257016500, 
+        "last_updated": 1483582882466, 
         "title": "South Park", 
         "tvdb_id": "75897", 
         "imdb_id": "tt0121955", 
-        "num_seasons": 5, 
+        "num_seasons": 4, 
         "year": "1997", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
@@ -480,7 +480,7 @@
         "slug": "south-park"
     }, 
     {
-        "last_updated": 1481256455489, 
+        "last_updated": 1483582302393, 
         "title": "Futurama", 
         "tvdb_id": "73871", 
         "imdb_id": "tt0149460", 
@@ -495,7 +495,7 @@
         "slug": "futurama"
     }, 
     {
-        "last_updated": 1481257010891, 
+        "last_updated": 1483582877379, 
         "title": "Sons of Anarchy", 
         "tvdb_id": "82696", 
         "imdb_id": "tt1124373", 
@@ -510,7 +510,7 @@
         "slug": "sons-of-anarchy"
     }, 
     {
-        "last_updated": 1481257172017, 
+        "last_updated": 1483583052911, 
         "title": "The Vampire Diaries", 
         "tvdb_id": "95491", 
         "imdb_id": "tt1405406", 
@@ -525,7 +525,7 @@
         "slug": "the-vampire-diaries"
     }, 
     {
-        "last_updated": 1481256156939, 
+        "last_updated": 1483581831809, 
         "title": "Battlestar Galactica", 
         "tvdb_id": "73545", 
         "imdb_id": "tt0407362", 
@@ -540,7 +540,7 @@
         "slug": "battlestar-galactica-2003"
     }, 
     {
-        "last_updated": 1481256196634, 
+        "last_updated": 1483581894411, 
         "title": "The Blacklist", 
         "tvdb_id": "266189", 
         "imdb_id": "tt2741602", 
@@ -555,7 +555,7 @@
         "slug": "the-blacklist"
     }, 
     {
-        "last_updated": 1481256506519, 
+        "last_updated": 1483582353089, 
         "title": "Hannibal", 
         "tvdb_id": "259063", 
         "imdb_id": "tt2243973", 
@@ -570,7 +570,7 @@
         "slug": "hannibal"
     }, 
     {
-        "last_updated": 1481257154404, 
+        "last_updated": 1483583032390, 
         "title": "Under the Dome", 
         "tvdb_id": "264492", 
         "imdb_id": "tt1553656", 
@@ -585,37 +585,7 @@
         "slug": "under-the-dome"
     }, 
     {
-        "last_updated": 1481256252045, 
-        "title": "Castle", 
-        "tvdb_id": "83462", 
-        "imdb_id": "tt1219024", 
-        "num_seasons": 4, 
-        "year": "2009", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1219024", 
-        "slug": "castle-2009"
-    }, 
-    {
-        "last_updated": 1481256276706, 
-        "title": "Chuck", 
-        "tvdb_id": "80348", 
-        "imdb_id": "tt0934814", 
-        "num_seasons": 5, 
-        "year": "2007", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0934814", 
-        "slug": "chuck"
-    }, 
-    {
-        "last_updated": 1481256769953, 
+        "last_updated": 1483582626727, 
         "title": "Mr. Robot", 
         "tvdb_id": "289590", 
         "imdb_id": "tt4158110", 
@@ -630,7 +600,22 @@
         "slug": "mr-robot"
     }, 
     {
-        "last_updated": 1481256393200, 
+        "last_updated": 1483582031612, 
+        "title": "Chuck", 
+        "tvdb_id": "80348", 
+        "imdb_id": "tt0934814", 
+        "num_seasons": 5, 
+        "year": "2007", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0934814", 
+        "slug": "chuck"
+    }, 
+    {
+        "last_updated": 1483582235340, 
         "title": "Elementary", 
         "tvdb_id": "255316", 
         "imdb_id": "tt2191671", 
@@ -645,7 +630,22 @@
         "slug": "elementary"
     }, 
     {
-        "last_updated": 1481256524895, 
+        "last_updated": 1483581988823, 
+        "title": "Castle", 
+        "tvdb_id": "83462", 
+        "imdb_id": "tt1219024", 
+        "num_seasons": 4, 
+        "year": "2009", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1219024", 
+        "slug": "castle-2009"
+    }, 
+    {
+        "last_updated": 1483582373181, 
         "title": "Heroes", 
         "tvdb_id": "79501", 
         "imdb_id": "tt0813715", 
@@ -660,7 +660,7 @@
         "slug": "heroes"
     }, 
     {
-        "last_updated": 1481256495825, 
+        "last_updated": 1483582343606, 
         "title": "Grey's Anatomy", 
         "tvdb_id": "73762", 
         "imdb_id": "tt0413573", 
@@ -675,7 +675,7 @@
         "slug": "greys-anatomy"
     }, 
     {
-        "last_updated": 1481256243917, 
+        "last_updated": 1483581974607, 
         "title": "Californication", 
         "tvdb_id": "80349", 
         "imdb_id": "tt0904208", 
@@ -690,7 +690,7 @@
         "slug": "californication"
     }, 
     {
-        "last_updated": 1481256716733, 
+        "last_updated": 1483582575874, 
         "title": "Marvel's Daredevil", 
         "tvdb_id": "281662", 
         "imdb_id": "tt3322312", 
@@ -705,7 +705,7 @@
         "slug": "marvel-s-daredevil"
     }, 
     {
-        "last_updated": 1481256485951, 
+        "last_updated": 1483582331800, 
         "title": "Gotham", 
         "tvdb_id": "274431", 
         "imdb_id": "tt3749900", 
@@ -720,7 +720,7 @@
         "slug": "gotham"
     }, 
     {
-        "last_updated": 1481256732046, 
+        "last_updated": 1483582591305, 
         "title": "The Mentalist", 
         "tvdb_id": "82459", 
         "imdb_id": "tt1196946", 
@@ -735,7 +735,7 @@
         "slug": "the-mentalist"
     }, 
     {
-        "last_updated": 1481241615671, 
+        "last_updated": 1483581609792, 
         "title": "The 100", 
         "tvdb_id": "268592", 
         "imdb_id": "tt2661044", 
@@ -750,7 +750,7 @@
         "slug": "the-100"
     }, 
     {
-        "last_updated": 1481256848232, 
+        "last_updated": 1483582703813, 
         "title": "Parks and Recreation", 
         "tvdb_id": "84912", 
         "imdb_id": "tt1266020", 
@@ -765,7 +765,7 @@
         "slug": "parks-and-recreation"
     }, 
     {
-        "last_updated": 1481256832622, 
+        "last_updated": 1483582689199, 
         "title": "Orphan Black", 
         "tvdb_id": "260315", 
         "imdb_id": "tt2234222", 
@@ -780,7 +780,7 @@
         "slug": "orphan-black"
     }, 
     {
-        "last_updated": 1481257146362, 
+        "last_updated": 1483583023075, 
         "title": "Two and a Half Men", 
         "tvdb_id": "72227", 
         "imdb_id": "tt0369179", 
@@ -795,7 +795,7 @@
         "slug": "two-and-a-half-men"
     }, 
     {
-        "last_updated": 1481256824892, 
+        "last_updated": 1483582682502, 
         "title": "The Office", 
         "tvdb_id": "73244", 
         "imdb_id": "tt0386676", 
@@ -810,7 +810,7 @@
         "slug": "the-office-us"
     }, 
     {
-        "last_updated": 1481257019051, 
+        "last_updated": 1483582885631, 
         "title": "Spartacus", 
         "tvdb_id": "129261", 
         "imdb_id": "tt1442449", 
@@ -825,22 +825,7 @@
         "slug": "spartacus"
     }, 
     {
-        "last_updated": 1481256585039, 
-        "title": "The IT Crowd", 
-        "tvdb_id": "79216", 
-        "imdb_id": "tt0487831", 
-        "num_seasons": 3, 
-        "year": "2006", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0487831", 
-        "slug": "the-it-crowd"
-    }, 
-    {
-        "last_updated": 1481256971564, 
+        "last_updated": 1483582833817, 
         "title": "Scrubs", 
         "tvdb_id": "76156", 
         "imdb_id": "tt0285403", 
@@ -855,7 +840,7 @@
         "slug": "scrubs"
     }, 
     {
-        "last_updated": 1481241758550, 
+        "last_updated": 1483581620929, 
         "title": "24", 
         "tvdb_id": "76290", 
         "imdb_id": "tt0285331", 
@@ -870,7 +855,22 @@
         "slug": "24"
     }, 
     {
-        "last_updated": 1481216408949, 
+        "last_updated": 1483582438832, 
+        "title": "The IT Crowd", 
+        "tvdb_id": "79216", 
+        "imdb_id": "tt0487831", 
+        "num_seasons": 3, 
+        "year": "2006", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0487831", 
+        "slug": "the-it-crowd"
+    }, 
+    {
+        "last_updated": 1483311614530, 
         "title": "Pride", 
         "tvdb_id": "84831", 
         "imdb_id": "tt0416409", 
@@ -885,7 +885,7 @@
         "slug": "1"
     }, 
     {
-        "last_updated": 1481257204439, 
+        "last_updated": 1483583088920, 
         "title": "White Collar", 
         "tvdb_id": "108611", 
         "imdb_id": "tt1358522", 
@@ -900,7 +900,7 @@
         "slug": "white-collar"
     }, 
     {
-        "last_updated": 1481256417655, 
+        "last_updated": 1483582260893, 
         "title": "Falling Skies", 
         "tvdb_id": "205281", 
         "imdb_id": "tt1462059", 
@@ -915,7 +915,7 @@
         "slug": "falling-skies"
     }, 
     {
-        "last_updated": 1481256119835, 
+        "last_updated": 1483581772235, 
         "title": "Arrested Development", 
         "tvdb_id": "72173", 
         "imdb_id": "tt0367279", 
@@ -930,22 +930,7 @@
         "slug": "arrested-development"
     }, 
     {
-        "last_updated": 1481256496270, 
-        "title": "Grimm", 
-        "tvdb_id": "248736", 
-        "imdb_id": "tt1830617", 
-        "num_seasons": 2, 
-        "year": "2011", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1830617", 
-        "slug": "grimm"
-    }, 
-    {
-        "last_updated": 1481256986819, 
+        "last_updated": 1483582849268, 
         "title": "Shameless", 
         "tvdb_id": "161511", 
         "imdb_id": "tt1586680", 
@@ -960,7 +945,22 @@
         "slug": "shameless-us"
     }, 
     {
-        "last_updated": 1481256422528, 
+        "last_updated": 1483582343630, 
+        "title": "Grimm", 
+        "tvdb_id": "248736", 
+        "imdb_id": "tt1830617", 
+        "num_seasons": 2, 
+        "year": "2011", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1830617", 
+        "slug": "grimm"
+    }, 
+    {
+        "last_updated": 1483582265613, 
         "title": "Fargo", 
         "tvdb_id": "269613", 
         "imdb_id": "tt2802850", 
@@ -975,7 +975,7 @@
         "slug": "fargo"
     }, 
     {
-        "last_updated": 1481256698619, 
+        "last_updated": 1483582556585, 
         "title": "Mad Men", 
         "tvdb_id": "80337", 
         "imdb_id": "tt0804503", 
@@ -990,7 +990,22 @@
         "slug": "mad-men"
     }, 
     {
-        "last_updated": 1481256927456, 
+        "last_updated": 1483581919420, 
+        "title": "Bones", 
+        "tvdb_id": "75682", 
+        "imdb_id": "tt0460627", 
+        "num_seasons": 4, 
+        "year": "2005", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0460627", 
+        "slug": "bones"
+    }, 
+    {
+        "last_updated": 1483582778432, 
         "title": "Revolution", 
         "tvdb_id": "258823", 
         "imdb_id": "tt2070791", 
@@ -1005,37 +1020,7 @@
         "slug": "revolution-2012"
     }, 
     {
-        "last_updated": 1481256211090, 
-        "title": "Bones", 
-        "tvdb_id": "75682", 
-        "imdb_id": "tt0460627", 
-        "num_seasons": 3, 
-        "year": "2005", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0460627", 
-        "slug": "bones"
-    }, 
-    {
-        "last_updated": 1481256207056, 
-        "title": "Boardwalk Empire", 
-        "tvdb_id": "84947", 
-        "imdb_id": "tt0979432", 
-        "num_seasons": 5, 
-        "year": "2010", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0979432", 
-        "slug": "boardwalk-empire"
-    }, 
-    {
-        "last_updated": 1481241679582, 
+        "last_updated": 1483581617511, 
         "title": "2 Broke Girls", 
         "tvdb_id": "248741", 
         "imdb_id": "tt1845307", 
@@ -1050,7 +1035,22 @@
         "slug": "2-broke-girls"
     }, 
     {
-        "last_updated": 1481256116673, 
+        "last_updated": 1483581910495, 
+        "title": "Boardwalk Empire", 
+        "tvdb_id": "84947", 
+        "imdb_id": "tt0979432", 
+        "num_seasons": 5, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0979432", 
+        "slug": "boardwalk-empire"
+    }, 
+    {
+        "last_updated": 1483581766526, 
         "title": "Archer", 
         "tvdb_id": "110381", 
         "imdb_id": "tt1486217", 
@@ -1065,7 +1065,22 @@
         "slug": "archer-2009"
     }, 
     {
-        "last_updated": 1481257120425, 
+        "last_updated": 1483582912106, 
+        "title": "Stranger Things", 
+        "tvdb_id": "305288", 
+        "imdb_id": "tt4574334", 
+        "num_seasons": 1, 
+        "year": "2016", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt4574334", 
+        "slug": "stranger-things"
+    }, 
+    {
+        "last_updated": 1483582994753, 
         "title": "Top Gear", 
         "tvdb_id": "74608", 
         "imdb_id": "tt1628033", 
@@ -1095,22 +1110,7 @@
         "slug": "the-x-files"
     }, 
     {
-        "last_updated": 1481256472246, 
-        "title": "Glee", 
-        "tvdb_id": "83610", 
-        "imdb_id": "tt1327801", 
-        "num_seasons": 3, 
-        "year": "2009", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1327801", 
-        "slug": "glee"
-    }, 
-    {
-        "last_updated": 1481256234307, 
+        "last_updated": 1483581959911, 
         "title": "Brooklyn Nine-Nine", 
         "tvdb_id": "269586", 
         "imdb_id": "tt2467372", 
@@ -1125,52 +1125,22 @@
         "slug": "brooklyn-ninenine"
     }, 
     {
-        "last_updated": 1481257044699, 
-        "title": "Stranger Things", 
-        "tvdb_id": "305288", 
-        "imdb_id": "tt4574334", 
-        "num_seasons": 1, 
-        "year": "2016", 
+        "last_updated": 1483582320270, 
+        "title": "Glee", 
+        "tvdb_id": "83610", 
+        "imdb_id": "tt1327801", 
+        "num_seasons": 3, 
+        "year": "2009", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt4574334", 
-        "slug": "stranger-things"
+        "_id": "tt1327801", 
+        "slug": "glee"
     }, 
     {
-        "last_updated": 1481256926279, 
-        "title": "Revenge", 
-        "tvdb_id": "248837", 
-        "imdb_id": "tt1837642", 
-        "num_seasons": 4, 
-        "year": "2011", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1837642", 
-        "slug": "revenge"
-    }, 
-    {
-        "last_updated": 1481256299227, 
-        "title": "Continuum", 
-        "tvdb_id": "258171", 
-        "imdb_id": "tt1954347", 
-        "num_seasons": 4, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1954347", 
-        "slug": "continuum"
-    }, 
-    {
-        "last_updated": 1481256175976, 
+        "last_updated": 1483581861812, 
         "title": "Better Call Saul", 
         "tvdb_id": "273181", 
         "imdb_id": "tt3032476", 
@@ -1185,7 +1155,37 @@
         "slug": "better-call-saul"
     }, 
     {
-        "last_updated": 1481256882471, 
+        "last_updated": 1483582777977, 
+        "title": "Revenge", 
+        "tvdb_id": "248837", 
+        "imdb_id": "tt1837642", 
+        "num_seasons": 4, 
+        "year": "2011", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1837642", 
+        "slug": "revenge"
+    }, 
+    {
+        "last_updated": 1483582078866, 
+        "title": "Continuum", 
+        "tvdb_id": "258171", 
+        "imdb_id": "tt1954347", 
+        "num_seasons": 4, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1954347", 
+        "slug": "continuum"
+    }, 
+    {
+        "last_updated": 1483582735153, 
         "title": "Pretty Little Liars", 
         "tvdb_id": "146711", 
         "imdb_id": "tt1578873", 
@@ -1200,7 +1200,7 @@
         "slug": "pretty-little-liars"
     }, 
     {
-        "last_updated": 1481256436706, 
+        "last_updated": 1483582281937, 
         "title": "The Following", 
         "tvdb_id": "258744", 
         "imdb_id": "tt2071645", 
@@ -1215,7 +1215,7 @@
         "slug": "the-following"
     }, 
     {
-        "last_updated": 1481256996187, 
+        "last_updated": 1483582859914, 
         "title": "Silicon Valley", 
         "tvdb_id": "277165", 
         "imdb_id": "tt2575988", 
@@ -1230,11 +1230,11 @@
         "slug": "silicon-valley"
     }, 
     {
-        "last_updated": 1481257067474, 
+        "last_updated": 1483582937526, 
         "title": "Teen Wolf", 
         "tvdb_id": "175001", 
         "imdb_id": "tt1567432", 
-        "num_seasons": 5, 
+        "num_seasons": 4, 
         "year": "2011", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
@@ -1245,22 +1245,7 @@
         "slug": "teen-wolf"
     }, 
     {
-        "last_updated": 1481256745935, 
-        "title": "Misfits", 
-        "tvdb_id": "124051", 
-        "imdb_id": "tt1548850", 
-        "num_seasons": 5, 
-        "year": "2009", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1548850", 
-        "slug": "misfits"
-    }, 
-    {
-        "last_updated": 1481256807659, 
+        "last_updated": 1483582663753, 
         "title": "The Newsroom", 
         "tvdb_id": "256227", 
         "imdb_id": "tt1870479", 
@@ -1275,52 +1260,22 @@
         "slug": "the-newsroom-2012"
     }, 
     {
-        "last_updated": 1481257195572, 
-        "title": "Weeds", 
-        "tvdb_id": "74845", 
-        "imdb_id": "tt0439100", 
-        "num_seasons": 4, 
-        "year": "2005", 
+        "last_updated": 1483582605056, 
+        "title": "Misfits", 
+        "tvdb_id": "124051", 
+        "imdb_id": "tt1548850", 
+        "num_seasons": 5, 
+        "year": "2009", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt0439100", 
-        "slug": "weeds"
+        "_id": "tt1548850", 
+        "slug": "misfits"
     }, 
     {
-        "last_updated": 1481256316721, 
-        "title": "Criminal Minds", 
-        "tvdb_id": "75710", 
-        "imdb_id": "tt0452046", 
-        "num_seasons": 3, 
-        "year": "2005", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0452046", 
-        "slug": "criminal-minds"
-    }, 
-    {
-        "last_updated": 1481241733406, 
-        "title": "30 Rock", 
-        "tvdb_id": "79488", 
-        "imdb_id": "tt0496424", 
-        "num_seasons": 6, 
-        "year": "2006", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0496424", 
-        "slug": "30-rock"
-    }, 
-    {
-        "last_updated": 1481256193850, 
+        "last_updated": 1483581889723, 
         "title": "Black Mirror", 
         "tvdb_id": "253463", 
         "imdb_id": "tt2085059", 
@@ -1335,7 +1290,52 @@
         "slug": "black-mirror"
     }, 
     {
-        "last_updated": 1481256797279, 
+        "last_updated": 1483583079613, 
+        "title": "Weeds", 
+        "tvdb_id": "74845", 
+        "imdb_id": "tt0439100", 
+        "num_seasons": 4, 
+        "year": "2005", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0439100", 
+        "slug": "weeds"
+    }, 
+    {
+        "last_updated": 1483582108946, 
+        "title": "Criminal Minds", 
+        "tvdb_id": "75710", 
+        "imdb_id": "tt0452046", 
+        "num_seasons": 3, 
+        "year": "2005", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0452046", 
+        "slug": "criminal-minds"
+    }, 
+    {
+        "last_updated": 1483581623243, 
+        "title": "30 Rock", 
+        "tvdb_id": "79488", 
+        "imdb_id": "tt0496424", 
+        "num_seasons": 6, 
+        "year": "2006", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0496424", 
+        "slug": "30-rock"
+    }, 
+    {
+        "last_updated": 1483582654045, 
         "title": "NCIS", 
         "tvdb_id": "72108", 
         "imdb_id": "tt0364845", 
@@ -1350,7 +1350,7 @@
         "slug": "ncis"
     }, 
     {
-        "last_updated": 1481256660735, 
+        "last_updated": 1483582516747, 
         "title": "Lie to Me", 
         "tvdb_id": "83602", 
         "imdb_id": "tt1235099", 
@@ -1365,7 +1365,7 @@
         "slug": "lie-to-me"
     }, 
     {
-        "last_updated": 1481256585768, 
+        "last_updated": 1483582439639, 
         "title": "It's Always Sunny in Philadelphia", 
         "tvdb_id": "75805", 
         "imdb_id": "tt0472954", 
@@ -1380,7 +1380,7 @@
         "slug": "its-always-sunny-in-philadelphia"
     }, 
     {
-        "last_updated": 1481256859107, 
+        "last_updated": 1483582713848, 
         "title": "Penny Dreadful", 
         "tvdb_id": "265766", 
         "imdb_id": "tt2628232", 
@@ -1395,7 +1395,7 @@
         "slug": "penny-dreadful"
     }, 
     {
-        "last_updated": 1481256378763, 
+        "last_updated": 1483582215876, 
         "title": "Downton Abbey", 
         "tvdb_id": "193131", 
         "imdb_id": "tt1606375", 
@@ -1410,7 +1410,7 @@
         "slug": "downton-abbey"
     }, 
     {
-        "last_updated": 1481257006685, 
+        "last_updated": 1483582872446, 
         "title": "Smallville", 
         "tvdb_id": "72218", 
         "imdb_id": "tt0279600", 
@@ -1425,11 +1425,11 @@
         "slug": "smallville"
     }, 
     {
-        "last_updated": 1481256065759, 
+        "last_updated": 1483581723362, 
         "title": "American Dad!", 
         "tvdb_id": "73141", 
         "imdb_id": "tt0397306", 
-        "num_seasons": 5, 
+        "num_seasons": 3, 
         "year": "2005", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
@@ -1440,26 +1440,11 @@
         "slug": "american-dad"
     }, 
     {
-        "last_updated": 1481256405376, 
-        "title": "Eureka", 
-        "tvdb_id": "79334", 
-        "imdb_id": "tt0796264", 
-        "num_seasons": 3, 
-        "year": "2006", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0796264", 
-        "slug": "eureka"
-    }, 
-    {
-        "last_updated": 1481176811726, 
+        "last_updated": 1483311675486, 
         "title": "Bugs", 
         "tvdb_id": "77698", 
         "imdb_id": "tt0111904", 
-        "num_seasons": 5, 
+        "num_seasons": 3, 
         "year": "1995", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
@@ -1470,7 +1455,7 @@
         "slug": "7"
     }, 
     {
-        "last_updated": 1481256551727, 
+        "last_updated": 1483582402738, 
         "title": "How to Get Away with Murder", 
         "tvdb_id": "281620", 
         "imdb_id": "tt3205802", 
@@ -1485,7 +1470,22 @@
         "slug": "how-to-get-away-with-murder"
     }, 
     {
-        "last_updated": 1481256085269, 
+        "last_updated": 1483582248183, 
+        "title": "Eureka", 
+        "tvdb_id": "79334", 
+        "imdb_id": "tt0796264", 
+        "num_seasons": 3, 
+        "year": "2006", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0796264", 
+        "slug": "eureka"
+    }, 
+    {
+        "last_updated": 1483581737373, 
         "title": "The Americans", 
         "tvdb_id": "261690", 
         "imdb_id": "tt2149175", 
@@ -1500,82 +1500,22 @@
         "slug": "the-americans-2013"
     }, 
     {
-        "last_updated": 1481256029623, 
+        "last_updated": 1483581701070, 
         "title": "Almost Human", 
         "tvdb_id": "267702", 
         "imdb_id": "tt2654580", 
         "num_seasons": 1, 
         "year": "2013", 
         "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/050/696/fanarts/medium/b927a749e0.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/050/696/posters/medium/6e3671e4fc.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/050/696/banners/original/be31c3d9da.jpg"
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
         "_id": "tt2654580", 
         "slug": "almost-human"
     }, 
     {
-        "last_updated": 1481256147451, 
-        "title": "Banshee", 
-        "tvdb_id": "259765", 
-        "imdb_id": "tt2017109", 
-        "num_seasons": 4, 
-        "year": "2013", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2017109", 
-        "slug": "banshee"
-    }, 
-    {
-        "last_updated": 1481257004966, 
-        "title": "Sleepy Hollow", 
-        "tvdb_id": "269578", 
-        "imdb_id": "tt2647544", 
-        "num_seasons": 3, 
-        "year": "2013", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2647544", 
-        "slug": "sleepy-hollow"
-    }, 
-    {
-        "last_updated": 1481256401712, 
-        "title": "Entourage", 
-        "tvdb_id": "74543", 
-        "imdb_id": "tt0387199", 
-        "num_seasons": 5, 
-        "year": "2004", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0387199", 
-        "slug": "entourage"
-    }, 
-    {
-        "last_updated": 1481256484502, 
-        "title": "Gossip Girl", 
-        "tvdb_id": "80547", 
-        "imdb_id": "tt0397442", 
-        "num_seasons": 5, 
-        "year": "2007", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0397442", 
-        "slug": "gossip-girl"
-    }, 
-    {
-        "last_updated": 1481256792107, 
+        "last_updated": 1483582648948, 
         "title": "Narcos", 
         "tvdb_id": "282670", 
         "imdb_id": "tt2707408", 
@@ -1590,7 +1530,67 @@
         "slug": "narcos"
     }, 
     {
-        "last_updated": 1481257189465, 
+        "last_updated": 1483581814381, 
+        "title": "Banshee", 
+        "tvdb_id": "259765", 
+        "imdb_id": "tt2017109", 
+        "num_seasons": 4, 
+        "year": "2013", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2017109", 
+        "slug": "banshee"
+    }, 
+    {
+        "last_updated": 1483582871668, 
+        "title": "Sleepy Hollow", 
+        "tvdb_id": "269578", 
+        "imdb_id": "tt2647544", 
+        "num_seasons": 3, 
+        "year": "2013", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2647544", 
+        "slug": "sleepy-hollow"
+    }, 
+    {
+        "last_updated": 1483582244051, 
+        "title": "Entourage", 
+        "tvdb_id": "74543", 
+        "imdb_id": "tt0387199", 
+        "num_seasons": 5, 
+        "year": "2004", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0387199", 
+        "slug": "entourage"
+    }, 
+    {
+        "last_updated": 1483582331486, 
+        "title": "Gossip Girl", 
+        "tvdb_id": "80547", 
+        "imdb_id": "tt0397442", 
+        "num_seasons": 5, 
+        "year": "2007", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0397442", 
+        "slug": "gossip-girl"
+    }, 
+    {
+        "last_updated": 1483583072929, 
         "title": "Warehouse 13", 
         "tvdb_id": "84676", 
         "imdb_id": "tt1132290", 
@@ -1605,7 +1605,7 @@
         "slug": "warehouse-13"
     }, 
     {
-        "last_updated": 1481256333165, 
+        "last_updated": 1483582133278, 
         "title": "Da Vinci's Demons", 
         "tvdb_id": "259669", 
         "imdb_id": "tt2094262", 
@@ -1620,22 +1620,7 @@
         "slug": "da-vincis-demons"
     }, 
     {
-        "last_updated": 1481257032307, 
-        "title": "Stargate Atlantis", 
-        "tvdb_id": "70851", 
-        "imdb_id": "tt0374455", 
-        "num_seasons": 2, 
-        "year": "2004", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0374455", 
-        "slug": "stargate-atlantis"
-    }, 
-    {
-        "last_updated": 1481256609242, 
+        "last_updated": 1483582459258, 
         "title": "Justified", 
         "tvdb_id": "134241", 
         "imdb_id": "tt1489428", 
@@ -1650,7 +1635,22 @@
         "slug": "justified"
     }, 
     {
-        "last_updated": 1481257043337, 
+        "last_updated": 1483582898122, 
+        "title": "Stargate Atlantis", 
+        "tvdb_id": "70851", 
+        "imdb_id": "tt0374455", 
+        "num_seasons": 2, 
+        "year": "2004", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0374455", 
+        "slug": "stargate-atlantis"
+    }, 
+    {
+        "last_updated": 1483582910443, 
         "title": "The Strain", 
         "tvdb_id": "276564", 
         "imdb_id": "tt2654620", 
@@ -1665,22 +1665,7 @@
         "slug": "the-strain"
     }, 
     {
-        "last_updated": 1481256153869, 
-        "title": "Bates Motel", 
-        "tvdb_id": "262414", 
-        "imdb_id": "tt2188671", 
-        "num_seasons": 4, 
-        "year": "2013", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2188671", 
-        "slug": "bates-motel"
-    }, 
-    {
-        "last_updated": 1481256695487, 
+        "last_updated": 1483582553150, 
         "title": "Luther", 
         "tvdb_id": "159591", 
         "imdb_id": "tt1474684", 
@@ -1695,7 +1680,22 @@
         "slug": "luther"
     }, 
     {
-        "last_updated": 1481256479962, 
+        "last_updated": 1483581828508, 
+        "title": "Bates Motel", 
+        "tvdb_id": "262414", 
+        "imdb_id": "tt2188671", 
+        "num_seasons": 4, 
+        "year": "2013", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2188671", 
+        "slug": "bates-motel"
+    }, 
+    {
+        "last_updated": 1483582327051, 
         "title": "The Good Wife", 
         "tvdb_id": "95451", 
         "imdb_id": "tt1442462", 
@@ -1710,7 +1710,7 @@
         "slug": "the-good-wife"
     }, 
     {
-        "last_updated": 1481256240136, 
+        "last_updated": 1483581970372, 
         "title": "Burn Notice", 
         "tvdb_id": "80270", 
         "imdb_id": "tt0810788", 
@@ -1725,7 +1725,7 @@
         "slug": "burn-notice"
     }, 
     {
-        "last_updated": 1481256832132, 
+        "last_updated": 1483582688202, 
         "title": "The Originals", 
         "tvdb_id": "266883", 
         "imdb_id": "tt2632424", 
@@ -1740,7 +1740,7 @@
         "slug": "the-originals"
     }, 
     {
-        "last_updated": 1481257069739, 
+        "last_updated": 1483582940730, 
         "title": "Terra Nova", 
         "tvdb_id": "164091", 
         "imdb_id": "tt1641349", 
@@ -1755,7 +1755,7 @@
         "slug": "terra-nova"
     }, 
     {
-        "last_updated": 1481256892606, 
+        "last_updated": 1483582747266, 
         "title": "Psych", 
         "tvdb_id": "79335", 
         "imdb_id": "tt0491738", 
@@ -1770,7 +1770,7 @@
         "slug": "psych"
     }, 
     {
-        "last_updated": 1481256789861, 
+        "last_updated": 1483582646263, 
         "title": "MythBusters", 
         "tvdb_id": "73388", 
         "imdb_id": "tt0383126", 
@@ -1785,7 +1785,7 @@
         "slug": "mythbusters"
     }, 
     {
-        "last_updated": 1481256618236, 
+        "last_updated": 1483582467988, 
         "title": "The Killing", 
         "tvdb_id": "210171", 
         "imdb_id": "tt1637727", 
@@ -1800,7 +1800,7 @@
         "slug": "the-killing-us"
     }, 
     {
-        "last_updated": 1481256194127, 
+        "last_updated": 1483581890916, 
         "title": "Black Sails", 
         "tvdb_id": "262407", 
         "imdb_id": "tt2375692", 
@@ -1815,547 +1815,7 @@
         "slug": "black-sails"
     }, 
     {
-        "last_updated": 1481256811058, 
-        "title": "Nikita", 
-        "tvdb_id": "164301", 
-        "imdb_id": "tt1592154", 
-        "num_seasons": 4, 
-        "year": "2010", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1592154", 
-        "slug": "nikita"
-    }, 
-    {
-        "last_updated": 1481256354312, 
-        "title": "Defiance", 
-        "tvdb_id": "255326", 
-        "imdb_id": "tt2189221", 
-        "num_seasons": 3, 
-        "year": "2013", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2189221", 
-        "slug": "defiance"
-    }, 
-    {
-        "last_updated": 1481256928942, 
-        "title": "Rick and Morty", 
-        "tvdb_id": "275274", 
-        "imdb_id": "tt2861424", 
-        "num_seasons": 2, 
-        "year": "2013", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2861424", 
-        "slug": "rick-and-morty"
-    }, 
-    {
-        "last_updated": 1481256964854, 
-        "title": "Scandal", 
-        "tvdb_id": "248841", 
-        "imdb_id": "tt1837576", 
-        "num_seasons": 4, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1837576", 
-        "slug": "scandal-2012"
-    }, 
-    {
-        "last_updated": 1481256733804, 
-        "title": "Merlin", 
-        "tvdb_id": "83123", 
-        "imdb_id": "tt1199099", 
-        "num_seasons": 5, 
-        "year": "2008", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1199099", 
-        "slug": "merlin"
-    }, 
-    {
-        "last_updated": 1481256359850, 
-        "title": "Desperate Housewives", 
-        "tvdb_id": "73800", 
-        "imdb_id": "tt0410975", 
-        "num_seasons": 3, 
-        "year": "2004", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0410975", 
-        "slug": "desperate-housewives"
-    }, 
-    {
-        "last_updated": 1481256516099, 
-        "title": "Hawaii Five-0", 
-        "tvdb_id": "164541", 
-        "imdb_id": "tt1600194", 
-        "num_seasons": 3, 
-        "year": "2010", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1600194", 
-        "slug": "hawaii-fiveo-2010"
-    }, 
-    {
-        "last_updated": 1481257031987, 
-        "title": "Stargate Universe", 
-        "tvdb_id": "83237", 
-        "imdb_id": "tt1286039", 
-        "num_seasons": 2, 
-        "year": "2009", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/005/121/fanarts/medium/b609e373df.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/005/121/posters/medium/00b89277f4.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/005/121/banners/original/928c0c8d68.jpg"
-        }, 
-        "_id": "tt1286039", 
-        "slug": "stargate-universe"
-    }, 
-    {
-        "last_updated": 1481256425612, 
-        "title": "Fear the Walking Dead", 
-        "tvdb_id": "290853", 
-        "imdb_id": "tt3743822", 
-        "num_seasons": 2, 
-        "year": "2015", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt3743822", 
-        "slug": "fear-the-walking-dead"
-    }, 
-    {
-        "last_updated": 1481256642463, 
-        "title": "The Last Ship", 
-        "tvdb_id": "269533", 
-        "imdb_id": "tt2402207", 
-        "num_seasons": 3, 
-        "year": "2014", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2402207", 
-        "slug": "the-last-ship"
-    }, 
-    {
-        "last_updated": 1481241938008, 
-        "title": "Adventure Time", 
-        "tvdb_id": "152831", 
-        "imdb_id": "tt1305826", 
-        "num_seasons": 2, 
-        "year": "2010", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1305826", 
-        "slug": "adventure-time"
-    }, 
-    {
-        "last_updated": 1481256685456, 
-        "title": "Louie", 
-        "tvdb_id": "155201", 
-        "imdb_id": "tt1492966", 
-        "num_seasons": 5, 
-        "year": "2010", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1492966", 
-        "slug": "louie-2010"
-    }, 
-    {
-        "last_updated": 1481256714733, 
-        "title": "Marvel's Agent Carter", 
-        "tvdb_id": "281485", 
-        "imdb_id": "tt3475734", 
-        "num_seasons": 2, 
-        "year": "2015", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt3475734", 
-        "slug": "marvel-s-agent-carter"
-    }, 
-    {
-        "last_updated": 1481257170012, 
-        "title": "V", 
-        "tvdb_id": "94971", 
-        "imdb_id": "tt1307824", 
-        "num_seasons": 2, 
-        "year": "2009", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1307824", 
-        "slug": "v-2009"
-    }, 
-    {
-        "last_updated": 1481256906892, 
-        "title": "Ray Donovan", 
-        "tvdb_id": "259866", 
-        "imdb_id": "tt2249007", 
-        "num_seasons": 4, 
-        "year": "2013", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2249007", 
-        "slug": "ray-donovan"
-    }, 
-    {
-        "last_updated": 1481256207466, 
-        "title": "Bob's Burgers", 
-        "tvdb_id": "194031", 
-        "imdb_id": "tt1561755", 
-        "num_seasons": 4, 
-        "year": "2011", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1561755", 
-        "slug": "bobs-burgers"
-    }, 
-    {
-        "last_updated": 1481256024815, 
-        "title": "Alcatraz", 
-        "tvdb_id": "248646", 
-        "imdb_id": "tt1728102", 
-        "num_seasons": 1, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1728102", 
-        "slug": "alcatraz"
-    }, 
-    {
-        "last_updated": 1481256375626, 
-        "title": "Dollhouse", 
-        "tvdb_id": "82046", 
-        "imdb_id": "tt1135300", 
-        "num_seasons": 2, 
-        "year": "2009", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1135300", 
-        "slug": "dollhouse"
-    }, 
-    {
-        "last_updated": 1481256518738, 
-        "title": "Helix", 
-        "tvdb_id": "265912", 
-        "imdb_id": "tt2758950", 
-        "num_seasons": 2, 
-        "year": "2014", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2758950", 
-        "slug": "helix"
-    }, 
-    {
-        "last_updated": 1481257002204, 
-        "title": "Skins", 
-        "tvdb_id": "79773", 
-        "imdb_id": "tt0840196", 
-        "num_seasons": 7, 
-        "year": "2007", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0840196", 
-        "slug": "skins"
-    }, 
-    {
-        "last_updated": 1481256037993, 
-        "title": "Alphas", 
-        "tvdb_id": "210841", 
-        "imdb_id": "tt1183865", 
-        "num_seasons": 2, 
-        "year": "2011", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/039/196/fanarts/medium/915bdd2cb0.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/039/196/posters/medium/fac5555a55.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/039/196/banners/original/336fd77253.jpg"
-        }, 
-        "_id": "tt1183865", 
-        "slug": "alphas"
-    }, 
-    {
-        "last_updated": 1481256298017, 
-        "title": "Constantine", 
-        "tvdb_id": "273690", 
-        "imdb_id": "tt3489184", 
-        "num_seasons": 1, 
-        "year": "2014", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt3489184", 
-        "slug": "constantine"
-    }, 
-    {
-        "last_updated": 1481256306464, 
-        "title": "Cosmos: A Spacetime Odyssey", 
-        "tvdb_id": "260586", 
-        "imdb_id": "tt2395695", 
-        "num_seasons": 1, 
-        "year": "2014", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2395695", 
-        "slug": "cosmos-a-spacetime-odyssey"
-    }, 
-    {
-        "last_updated": 1481256513733, 
-        "title": "Haven", 
-        "tvdb_id": "158661", 
-        "imdb_id": "tt1519931", 
-        "num_seasons": 5, 
-        "year": "2010", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1519931", 
-        "slug": "haven"
-    }, 
-    {
-        "last_updated": 1481256659304, 
-        "title": "Leverage", 
-        "tvdb_id": "82339", 
-        "imdb_id": "tt1103987", 
-        "num_seasons": 5, 
-        "year": "2008", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1103987", 
-        "slug": "leverage"
-    }, 
-    {
-        "last_updated": 1481256470910, 
-        "title": "Girls", 
-        "tvdb_id": "220411", 
-        "imdb_id": "tt1723816", 
-        "num_seasons": 5, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1723816", 
-        "slug": "girls"
-    }, 
-    {
-        "last_updated": 1481257124049, 
-        "title": "Torchwood", 
-        "tvdb_id": "79511", 
-        "imdb_id": "tt0485301", 
-        "num_seasons": 4, 
-        "year": "2006", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0485301", 
-        "slug": "torchwood"
-    }, 
-    {
-        "last_updated": 1481256520190, 
-        "title": "Hell on Wheels", 
-        "tvdb_id": "212961", 
-        "imdb_id": "tt1699748", 
-        "num_seasons": 5, 
-        "year": "2011", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/001/392/fanarts/medium/8e73a758a4.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/001/392/posters/medium/36e3534b69.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/001/392/banners/original/482a345a3f.jpg"
-        }, 
-        "_id": "tt1699748", 
-        "slug": "hell-on-wheels"
-    }, 
-    {
-        "last_updated": 1481256784344, 
-        "title": "My Name Is Earl", 
-        "tvdb_id": "75397", 
-        "imdb_id": "tt0460091", 
-        "num_seasons": 4, 
-        "year": "2005", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0460091", 
-        "slug": "my-name-is-earl"
-    }, 
-    {
-        "last_updated": 1481256652843, 
-        "title": "The Leftovers", 
-        "tvdb_id": "269689", 
-        "imdb_id": "tt2699128", 
-        "num_seasons": 2, 
-        "year": "2014", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2699128", 
-        "slug": "the-leftovers"
-    }, 
-    {
-        "last_updated": 1481257127286, 
-        "title": "Touch", 
-        "tvdb_id": "248935", 
-        "imdb_id": "tt1821681", 
-        "num_seasons": 2, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/039/337/fanarts/medium/432a2b85cf.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/039/337/posters/medium/8a25f0f443.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/039/337/banners/original/c8a69a3890.jpg"
-        }, 
-        "_id": "tt1821681", 
-        "slug": "touch"
-    }, 
-    {
-        "last_updated": 1481256431550, 
-        "title": "FlashForward", 
-        "tvdb_id": "84024", 
-        "imdb_id": "tt1441135", 
-        "num_seasons": 1, 
-        "year": "2009", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/019/003/fanarts/medium/124e99c2ba.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/019/003/posters/medium/fbf59f1d0a.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/019/003/banners/original/0a68c0e3d7.jpg"
-        }, 
-        "_id": "tt1441135", 
-        "slug": "flashforward"
-    }, 
-    {
-        "last_updated": 1481256967552, 
-        "title": "Scorpion", 
-        "tvdb_id": "281630", 
-        "imdb_id": "tt3514324", 
-        "num_seasons": 3, 
-        "year": "2014", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt3514324", 
-        "slug": "scorpion"
-    }, 
-    {
-        "last_updated": 1481257050302, 
-        "title": "Supergirl", 
-        "tvdb_id": "295759", 
-        "imdb_id": "tt4016454", 
-        "num_seasons": 2, 
-        "year": "2015", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt4016454", 
-        "slug": "supergirl"
-    }, 
-    {
-        "last_updated": 1481256323626, 
-        "title": "CSI: Crime Scene Investigation", 
-        "tvdb_id": "72546", 
-        "imdb_id": "tt0247082", 
-        "num_seasons": 3, 
-        "year": "2000", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0247082", 
-        "slug": "csi-crime-scene-investigation"
-    }, 
-    {
-        "last_updated": 1481256438765, 
-        "title": "Forever", 
-        "tvdb_id": "281535", 
-        "imdb_id": "tt3487382", 
-        "num_seasons": 1, 
-        "year": "2014", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt3487382", 
-        "slug": "forever-us-2014"
-    }, 
-    {
-        "last_updated": 1481257198680, 
+        "last_updated": 1483583083513, 
         "title": "Westworld", 
         "tvdb_id": "296762", 
         "imdb_id": "tt0475784", 
@@ -2370,22 +1830,532 @@
         "slug": "westworld"
     }, 
     {
-        "last_updated": 1481256895105, 
-        "title": "Pushing Daisies", 
-        "tvdb_id": "80351", 
-        "imdb_id": "tt0925266", 
+        "last_updated": 1483582667329, 
+        "title": "Nikita", 
+        "tvdb_id": "164301", 
+        "imdb_id": "tt1592154", 
+        "num_seasons": 4, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1592154", 
+        "slug": "nikita"
+    }, 
+    {
+        "last_updated": 1483582780484, 
+        "title": "Rick and Morty", 
+        "tvdb_id": "275274", 
+        "imdb_id": "tt2861424", 
         "num_seasons": 2, 
+        "year": "2013", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2861424", 
+        "slug": "rick-and-morty"
+    }, 
+    {
+        "last_updated": 1483582173429, 
+        "title": "Defiance", 
+        "tvdb_id": "255326", 
+        "imdb_id": "tt2189221", 
+        "num_seasons": 3, 
+        "year": "2013", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2189221", 
+        "slug": "defiance"
+    }, 
+    {
+        "last_updated": 1483582823611, 
+        "title": "Scandal", 
+        "tvdb_id": "248841", 
+        "imdb_id": "tt1837576", 
+        "num_seasons": 4, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1837576", 
+        "slug": "scandal-2012"
+    }, 
+    {
+        "last_updated": 1483582592903, 
+        "title": "Merlin", 
+        "tvdb_id": "83123", 
+        "imdb_id": "tt1199099", 
+        "num_seasons": 5, 
+        "year": "2008", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1199099", 
+        "slug": "merlin"
+    }, 
+    {
+        "last_updated": 1483582269070, 
+        "title": "Fear the Walking Dead", 
+        "tvdb_id": "290853", 
+        "imdb_id": "tt3743822", 
+        "num_seasons": 2, 
+        "year": "2015", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt3743822", 
+        "slug": "fear-the-walking-dead"
+    }, 
+    {
+        "last_updated": 1483582185101, 
+        "title": "Desperate Housewives", 
+        "tvdb_id": "73800", 
+        "imdb_id": "tt0410975", 
+        "num_seasons": 3, 
+        "year": "2004", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0410975", 
+        "slug": "desperate-housewives"
+    }, 
+    {
+        "last_updated": 1483582897922, 
+        "title": "Stargate Universe", 
+        "tvdb_id": "83237", 
+        "imdb_id": "tt1286039", 
+        "num_seasons": 2, 
+        "year": "2009", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1286039", 
+        "slug": "stargate-universe"
+    }, 
+    {
+        "last_updated": 1483582363455, 
+        "title": "Hawaii Five-0", 
+        "tvdb_id": "164541", 
+        "imdb_id": "tt1600194", 
+        "num_seasons": 3, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1600194", 
+        "slug": "hawaii-fiveo-2010"
+    }, 
+    {
+        "last_updated": 1483582492894, 
+        "title": "The Last Ship", 
+        "tvdb_id": "269533", 
+        "imdb_id": "tt2402207", 
+        "num_seasons": 3, 
+        "year": "2014", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2402207", 
+        "slug": "the-last-ship"
+    }, 
+    {
+        "last_updated": 1483581675878, 
+        "title": "Adventure Time", 
+        "tvdb_id": "152831", 
+        "imdb_id": "tt1305826", 
+        "num_seasons": 2, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1305826", 
+        "slug": "adventure-time"
+    }, 
+    {
+        "last_updated": 1483582573637, 
+        "title": "Marvel's Agent Carter", 
+        "tvdb_id": "281485", 
+        "imdb_id": "tt3475734", 
+        "num_seasons": 2, 
+        "year": "2015", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt3475734", 
+        "slug": "marvel-s-agent-carter"
+    }, 
+    {
+        "last_updated": 1483582543631, 
+        "title": "Louie", 
+        "tvdb_id": "155201", 
+        "imdb_id": "tt1492966", 
+        "num_seasons": 5, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1492966", 
+        "slug": "louie-2010"
+    }, 
+    {
+        "last_updated": 1483583050463, 
+        "title": "V", 
+        "tvdb_id": "94971", 
+        "imdb_id": "tt1307824", 
+        "num_seasons": 2, 
+        "year": "2009", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1307824", 
+        "slug": "v-2009"
+    }, 
+    {
+        "last_updated": 1483582759202, 
+        "title": "Ray Donovan", 
+        "tvdb_id": "259866", 
+        "imdb_id": "tt2249007", 
+        "num_seasons": 4, 
+        "year": "2013", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2249007", 
+        "slug": "ray-donovan"
+    }, 
+    {
+        "last_updated": 1483581912446, 
+        "title": "Bob's Burgers", 
+        "tvdb_id": "194031", 
+        "imdb_id": "tt1561755", 
+        "num_seasons": 4, 
+        "year": "2011", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1561755", 
+        "slug": "bobs-burgers"
+    }, 
+    {
+        "last_updated": 1483581696108, 
+        "title": "Alcatraz", 
+        "tvdb_id": "248646", 
+        "imdb_id": "tt1728102", 
+        "num_seasons": 1, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1728102", 
+        "slug": "alcatraz"
+    }, 
+    {
+        "last_updated": 1483582210219, 
+        "title": "Dollhouse", 
+        "tvdb_id": "82046", 
+        "imdb_id": "tt1135300", 
+        "num_seasons": 2, 
+        "year": "2009", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1135300", 
+        "slug": "dollhouse"
+    }, 
+    {
+        "last_updated": 1483582367859, 
+        "title": "Helix", 
+        "tvdb_id": "265912", 
+        "imdb_id": "tt2758950", 
+        "num_seasons": 2, 
+        "year": "2014", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2758950", 
+        "slug": "helix"
+    }, 
+    {
+        "last_updated": 1483582867786, 
+        "title": "Skins", 
+        "tvdb_id": "79773", 
+        "imdb_id": "tt0840196", 
+        "num_seasons": 7, 
         "year": "2007", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt0925266", 
-        "slug": "pushing-daisies"
+        "_id": "tt0840196", 
+        "slug": "skins"
     }, 
     {
-        "last_updated": 1481256199404, 
+        "last_updated": 1483581705615, 
+        "title": "Alphas", 
+        "tvdb_id": "210841", 
+        "imdb_id": "tt1183865", 
+        "num_seasons": 2, 
+        "year": "2011", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1183865", 
+        "slug": "alphas"
+    }, 
+    {
+        "last_updated": 1483582089952, 
+        "title": "Cosmos: A Spacetime Odyssey", 
+        "tvdb_id": "260586", 
+        "imdb_id": "tt2395695", 
+        "num_seasons": 1, 
+        "year": "2014", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2395695", 
+        "slug": "cosmos-a-spacetime-odyssey"
+    }, 
+    {
+        "last_updated": 1483582076218, 
+        "title": "Constantine", 
+        "tvdb_id": "273690", 
+        "imdb_id": "tt3489184", 
+        "num_seasons": 1, 
+        "year": "2014", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt3489184", 
+        "slug": "constantine"
+    }, 
+    {
+        "last_updated": 1483582361153, 
+        "title": "Haven", 
+        "tvdb_id": "158661", 
+        "imdb_id": "tt1519931", 
+        "num_seasons": 5, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1519931", 
+        "slug": "haven"
+    }, 
+    {
+        "last_updated": 1483582318641, 
+        "title": "Girls", 
+        "tvdb_id": "220411", 
+        "imdb_id": "tt1723816", 
+        "num_seasons": 5, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1723816", 
+        "slug": "girls"
+    }, 
+    {
+        "last_updated": 1483582514272, 
+        "title": "Leverage", 
+        "tvdb_id": "82339", 
+        "imdb_id": "tt1103987", 
+        "num_seasons": 5, 
+        "year": "2008", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1103987", 
+        "slug": "leverage"
+    }, 
+    {
+        "last_updated": 1483582368217, 
+        "title": "Hell on Wheels", 
+        "tvdb_id": "212961", 
+        "imdb_id": "tt1699748", 
+        "num_seasons": 5, 
+        "year": "2011", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1699748", 
+        "slug": "hell-on-wheels"
+    }, 
+    {
+        "last_updated": 1483582998664, 
+        "title": "Torchwood", 
+        "tvdb_id": "79511", 
+        "imdb_id": "tt0485301", 
+        "num_seasons": 4, 
+        "year": "2006", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0485301", 
+        "slug": "torchwood"
+    }, 
+    {
+        "last_updated": 1483582502090, 
+        "title": "The Leftovers", 
+        "tvdb_id": "269689", 
+        "imdb_id": "tt2699128", 
+        "num_seasons": 2, 
+        "year": "2014", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2699128", 
+        "slug": "the-leftovers"
+    }, 
+    {
+        "last_updated": 1483582641854, 
+        "title": "My Name Is Earl", 
+        "tvdb_id": "75397", 
+        "imdb_id": "tt0460091", 
+        "num_seasons": 4, 
+        "year": "2005", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0460091", 
+        "slug": "my-name-is-earl"
+    }, 
+    {
+        "last_updated": 1483583001717, 
+        "title": "Touch", 
+        "tvdb_id": "248935", 
+        "imdb_id": "tt1821681", 
+        "num_seasons": 2, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1821681", 
+        "slug": "touch"
+    }, 
+    {
+        "last_updated": 1483582918391, 
+        "title": "Supergirl", 
+        "tvdb_id": "295759", 
+        "imdb_id": "tt4016454", 
+        "num_seasons": 2, 
+        "year": "2015", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt4016454", 
+        "slug": "supergirl"
+    }, 
+    {
+        "last_updated": 1483582275990, 
+        "title": "FlashForward", 
+        "tvdb_id": "84024", 
+        "imdb_id": "tt1441135", 
+        "num_seasons": 1, 
+        "year": "2009", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1441135", 
+        "slug": "flashforward"
+    }, 
+    {
+        "last_updated": 1483582828111, 
+        "title": "Scorpion", 
+        "tvdb_id": "281630", 
+        "imdb_id": "tt3514324", 
+        "num_seasons": 3, 
+        "year": "2014", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt3514324", 
+        "slug": "scorpion"
+    }, 
+    {
+        "last_updated": 1483582284426, 
+        "title": "Forever", 
+        "tvdb_id": "281535", 
+        "imdb_id": "tt3487382", 
+        "num_seasons": 1, 
+        "year": "2014", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt3487382", 
+        "slug": "forever-us-2014"
+    }, 
+    {
+        "last_updated": 1483581899561, 
         "title": "Blindspot", 
         "tvdb_id": "295647", 
         "imdb_id": "tt4474344", 
@@ -2400,7 +2370,22 @@
         "slug": "blindspot"
     }, 
     {
-        "last_updated": 1481256231930, 
+        "last_updated": 1483582118963, 
+        "title": "CSI: Crime Scene Investigation", 
+        "tvdb_id": "72546", 
+        "imdb_id": "tt0247082", 
+        "num_seasons": 3, 
+        "year": "2000", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0247082", 
+        "slug": "csi-crime-scene-investigation"
+    }, 
+    {
+        "last_updated": 1483581954257, 
         "title": "Broadchurch", 
         "tvdb_id": "266398", 
         "imdb_id": "tt2249364", 
@@ -2415,7 +2400,22 @@
         "slug": "broadchurch"
     }, 
     {
-        "last_updated": 1481256668482, 
+        "last_updated": 1483582749357, 
+        "title": "Pushing Daisies", 
+        "tvdb_id": "80351", 
+        "imdb_id": "tt0925266", 
+        "num_seasons": 2, 
+        "year": "2007", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0925266", 
+        "slug": "pushing-daisies"
+    }, 
+    {
+        "last_updated": 1483582525394, 
         "title": "Limitless", 
         "tvdb_id": "295743", 
         "imdb_id": "tt4422836", 
@@ -2430,52 +2430,7 @@
         "slug": "limitless"
     }, 
     {
-        "last_updated": 1481256797256, 
-        "title": "NCIS: Los Angeles", 
-        "tvdb_id": "95441", 
-        "imdb_id": "tt1378167", 
-        "num_seasons": 4, 
-        "year": "2009", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1378167", 
-        "slug": "ncis-los-angeles"
-    }, 
-    {
-        "last_updated": 1481256586781, 
-        "title": "iZombie", 
-        "tvdb_id": "281470", 
-        "imdb_id": "tt3501584", 
-        "num_seasons": 2, 
-        "year": "2015", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt3501584", 
-        "slug": "izombie"
-    }, 
-    {
-        "last_updated": 1481257119060, 
-        "title": "The Tomorrow People (US)", 
-        "tvdb_id": "268591", 
-        "imdb_id": "tt2660734", 
-        "num_seasons": 1, 
-        "year": "2013", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2660734", 
-        "slug": "the-tomorrow-people-us"
-    }, 
-    {
-        "last_updated": 1481256692717, 
+        "last_updated": 1483582551324, 
         "title": "Lucifer", 
         "tvdb_id": "295685", 
         "imdb_id": "tt4052886", 
@@ -2490,7 +2445,52 @@
         "slug": "lucifer"
     }, 
     {
-        "last_updated": 1481256683890, 
+        "last_updated": 1483582653760, 
+        "title": "NCIS: Los Angeles", 
+        "tvdb_id": "95441", 
+        "imdb_id": "tt1378167", 
+        "num_seasons": 4, 
+        "year": "2009", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1378167", 
+        "slug": "ncis-los-angeles"
+    }, 
+    {
+        "last_updated": 1483582440428, 
+        "title": "iZombie", 
+        "tvdb_id": "281470", 
+        "imdb_id": "tt3501584", 
+        "num_seasons": 2, 
+        "year": "2015", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt3501584", 
+        "slug": "izombie"
+    }, 
+    {
+        "last_updated": 1483582992486, 
+        "title": "The Tomorrow People (US)", 
+        "tvdb_id": "268591", 
+        "imdb_id": "tt2660734", 
+        "num_seasons": 1, 
+        "year": "2013", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2660734", 
+        "slug": "the-tomorrow-people-us"
+    }, 
+    {
+        "last_updated": 1483582543063, 
         "title": "Lost Girl", 
         "tvdb_id": "182061", 
         "imdb_id": "tt1429449", 
@@ -2505,7 +2505,7 @@
         "slug": "lost-girl"
     }, 
     {
-        "last_updated": 1481256722359, 
+        "last_updated": 1483582581982, 
         "title": "Masters of Sex", 
         "tvdb_id": "261557", 
         "imdb_id": "tt2137109", 
@@ -2520,22 +2520,7 @@
         "slug": "masters-of-sex"
     }, 
     {
-        "last_updated": 1481256133531, 
-        "title": "Awkward.", 
-        "tvdb_id": "249882", 
-        "imdb_id": "tt1663676", 
-        "num_seasons": 3, 
-        "year": "2011", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1663676", 
-        "slug": "awkward"
-    }, 
-    {
-        "last_updated": 1481256644338, 
+        "last_updated": 1483582493980, 
         "title": "Last Week Tonight with John Oliver", 
         "tvdb_id": "278518", 
         "imdb_id": "tt3530232", 
@@ -2550,7 +2535,7 @@
         "slug": "last-week-tonight-with-john-oliver"
     }, 
     {
-        "last_updated": 1481257174118, 
+        "last_updated": 1483583055728, 
         "title": "Veep", 
         "tvdb_id": "237831", 
         "imdb_id": "tt1759761", 
@@ -2565,22 +2550,7 @@
         "slug": "veep"
     }, 
     {
-        "last_updated": 1481257069515, 
-        "title": "Terminator: The Sarah Connor Chronicles", 
-        "tvdb_id": "80344", 
-        "imdb_id": "tt0851851", 
-        "num_seasons": 2, 
-        "year": "2008", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0851851", 
-        "slug": "terminator-the-sarah-connor-chronicles"
-    }, 
-    {
-        "last_updated": 1481256837152, 
+        "last_updated": 1483582693230, 
         "title": "Outlander", 
         "tvdb_id": "270408", 
         "imdb_id": "tt3006802", 
@@ -2595,7 +2565,22 @@
         "slug": "outlander"
     }, 
     {
-        "last_updated": 1481257169783, 
+        "last_updated": 1483581792152, 
+        "title": "Awkward.", 
+        "tvdb_id": "249882", 
+        "imdb_id": "tt1663676", 
+        "num_seasons": 3, 
+        "year": "2011", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1663676", 
+        "slug": "awkward"
+    }, 
+    {
+        "last_updated": 1483583050057, 
         "title": "Utopia", 
         "tvdb_id": "264991", 
         "imdb_id": "tt2384811", 
@@ -2610,7 +2595,22 @@
         "slug": "utopia-uk"
     }, 
     {
-        "last_updated": 1481256307599, 
+        "last_updated": 1483582939608, 
+        "title": "Terminator: The Sarah Connor Chronicles", 
+        "tvdb_id": "80344", 
+        "imdb_id": "tt0851851", 
+        "num_seasons": 2, 
+        "year": "2008", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0851851", 
+        "slug": "terminator-the-sarah-connor-chronicles"
+    }, 
+    {
+        "last_updated": 1483582093211, 
         "title": "Cougar Town", 
         "tvdb_id": "94991", 
         "imdb_id": "tt1441109", 
@@ -2625,67 +2625,7 @@
         "slug": "cougar-town"
     }, 
     {
-        "last_updated": 1481256510947, 
-        "title": "Hart of Dixie", 
-        "tvdb_id": "248880", 
-        "imdb_id": "tt1832979", 
-        "num_seasons": 4, 
-        "year": "2011", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/039/115/fanarts/medium/a3566f16f7.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/039/115/posters/medium/507f283be5.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/039/115/banners/original/0b4ed7a067.jpg"
-        }, 
-        "_id": "tt1832979", 
-        "slug": "hart-of-dixie"
-    }, 
-    {
-        "last_updated": 1481256104803, 
-        "title": "Anger Management", 
-        "tvdb_id": "253350", 
-        "imdb_id": "tt1986770", 
-        "num_seasons": 2, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1986770", 
-        "slug": "anger-management"
-    }, 
-    {
-        "last_updated": 1481256507936, 
-        "title": "Happy Endings", 
-        "tvdb_id": "167571", 
-        "imdb_id": "tt1587678", 
-        "num_seasons": 3, 
-        "year": "2011", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1587678", 
-        "slug": "happy-endings"
-    }, 
-    {
-        "last_updated": 1481256310512, 
-        "title": "Covert Affairs", 
-        "tvdb_id": "104281", 
-        "imdb_id": "tt1495708", 
-        "num_seasons": 5, 
-        "year": "2010", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/031/494/fanarts/medium/bed1944466.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/031/494/posters/medium/702cca06d2.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/031/494/banners/original/c906eb47cf.jpg"
-        }, 
-        "_id": "tt1495708", 
-        "slug": "covert-affairs"
-    }, 
-    {
-        "last_updated": 1481256655434, 
+        "last_updated": 1483582506524, 
         "title": "DC's Legends of Tomorrow", 
         "tvdb_id": "295760", 
         "imdb_id": "tt4532368", 
@@ -2700,7 +2640,67 @@
         "slug": "legends-of-tomorrow"
     }, 
     {
-        "last_updated": 1481257212685, 
+        "last_updated": 1483582358501, 
+        "title": "Hart of Dixie", 
+        "tvdb_id": "248880", 
+        "imdb_id": "tt1832979", 
+        "num_seasons": 4, 
+        "year": "2011", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1832979", 
+        "slug": "hart-of-dixie"
+    }, 
+    {
+        "last_updated": 1483581751676, 
+        "title": "Anger Management", 
+        "tvdb_id": "253350", 
+        "imdb_id": "tt1986770", 
+        "num_seasons": 2, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1986770", 
+        "slug": "anger-management"
+    }, 
+    {
+        "last_updated": 1483582355052, 
+        "title": "Happy Endings", 
+        "tvdb_id": "167571", 
+        "imdb_id": "tt1587678", 
+        "num_seasons": 3, 
+        "year": "2011", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1587678", 
+        "slug": "happy-endings"
+    }, 
+    {
+        "last_updated": 1483582097772, 
+        "title": "Covert Affairs", 
+        "tvdb_id": "104281", 
+        "imdb_id": "tt1495708", 
+        "num_seasons": 5, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1495708", 
+        "slug": "covert-affairs"
+    }, 
+    {
+        "last_updated": 1483583096564, 
         "title": "Wilfred (US)", 
         "tvdb_id": "239761", 
         "imdb_id": "tt1703925", 
@@ -2715,7 +2715,7 @@
         "slug": "wilfred-us"
     }, 
     {
-        "last_updated": 1481256547733, 
+        "last_updated": 1483582398256, 
         "title": "House of Lies", 
         "tvdb_id": "247909", 
         "imdb_id": "tt1797404", 
@@ -2730,22 +2730,7 @@
         "slug": "house-of-lies"
     }, 
     {
-        "last_updated": 1481256410095, 
-        "title": "Extant", 
-        "tvdb_id": "272127", 
-        "imdb_id": "tt3155320", 
-        "num_seasons": 2, 
-        "year": "2014", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt3155320", 
-        "slug": "extant"
-    }, 
-    {
-        "last_updated": 1481256854633, 
+        "last_updated": 1483582709995, 
         "title": "Peaky Blinders", 
         "tvdb_id": "270915", 
         "imdb_id": "tt2442560", 
@@ -2760,52 +2745,7 @@
         "slug": "peaky-blinders"
     }, 
     {
-        "last_updated": 1481257191279, 
-        "title": "Wayward Pines", 
-        "tvdb_id": "269750", 
-        "imdb_id": "tt2618986", 
-        "num_seasons": 2, 
-        "year": "2015", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2618986", 
-        "slug": "wayward-pines"
-    }, 
-    {
-        "last_updated": 1481257222251, 
-        "title": "Workaholics", 
-        "tvdb_id": "211751", 
-        "imdb_id": "tt1610527", 
-        "num_seasons": 6, 
-        "year": "2011", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1610527", 
-        "slug": "workaholics"
-    }, 
-    {
-        "last_updated": 1481256503612, 
-        "title": "Halt and Catch Fire", 
-        "tvdb_id": "271910", 
-        "imdb_id": "tt2543312", 
-        "num_seasons": 3, 
-        "year": "2014", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2543312", 
-        "slug": "halt-and-catch-fire"
-    }, 
-    {
-        "last_updated": 1481256710151, 
+        "last_updated": 1483582569614, 
         "title": "Marco Polo", 
         "tvdb_id": "266091", 
         "imdb_id": "tt2189461", 
@@ -2820,37 +2760,37 @@
         "slug": "marco-polo-2014"
     }, 
     {
-        "last_updated": 1481256652814, 
-        "title": "The League", 
-        "tvdb_id": "114701", 
-        "imdb_id": "tt1480684", 
-        "num_seasons": 7, 
-        "year": "2009", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/031/360/fanarts/medium/a551c12e5e.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/031/360/posters/medium/9a41fdf015.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/031/360/banners/original/186eff26fd.jpg"
-        }, 
-        "_id": "tt1480684", 
-        "slug": "the-league"
-    }, 
-    {
-        "last_updated": 1481256268978, 
-        "title": "Chicago Fire", 
-        "tvdb_id": "258541", 
-        "imdb_id": "tt2261391", 
-        "num_seasons": 4, 
-        "year": "2012", 
+        "last_updated": 1483582253075, 
+        "title": "Extant", 
+        "tvdb_id": "272127", 
+        "imdb_id": "tt3155320", 
+        "num_seasons": 2, 
+        "year": "2014", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt2261391", 
-        "slug": "chicago-fire"
+        "_id": "tt3155320", 
+        "slug": "extant"
     }, 
     {
-        "last_updated": 1481256417386, 
+        "last_updated": 1483583074309, 
+        "title": "Wayward Pines", 
+        "tvdb_id": "269750", 
+        "imdb_id": "tt2618986", 
+        "num_seasons": 2, 
+        "year": "2015", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2618986", 
+        "slug": "wayward-pines"
+    }, 
+    {
+        "last_updated": 1483582259549, 
         "title": "The Fall", 
         "tvdb_id": "258107", 
         "imdb_id": "tt2294189", 
@@ -2865,67 +2805,97 @@
         "slug": "the-fall"
     }, 
     {
-        "last_updated": 1481256900921, 
-        "title": "Raising Hope", 
-        "tvdb_id": "164021", 
-        "imdb_id": "tt1615919", 
-        "num_seasons": 4, 
-        "year": "2010", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/032/674/fanarts/medium/3578bdf93b.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/032/674/posters/medium/1dfd75d8b0.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/032/674/banners/original/558c451505.jpg"
-        }, 
-        "_id": "tt1615919", 
-        "slug": "raising-hope"
-    }, 
-    {
-        "last_updated": 1481257047358, 
-        "title": "Suburgatory", 
-        "tvdb_id": "248842", 
-        "imdb_id": "tt1741256", 
+        "last_updated": 1483582351192, 
+        "title": "Halt and Catch Fire", 
+        "tvdb_id": "271910", 
+        "imdb_id": "tt2543312", 
         "num_seasons": 3, 
-        "year": "2011", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1741256", 
-        "slug": "suburgatory"
-    }, 
-    {
-        "last_updated": 1481256330419, 
-        "title": "Curb Your Enthusiasm", 
-        "tvdb_id": "76203", 
-        "imdb_id": "tt0264235", 
-        "num_seasons": 3, 
-        "year": "2000", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/004/522/fanarts/medium/3c6350626d.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/004/522/posters/medium/a96382d408.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/004/522/banners/original/4584412901.jpg"
-        }, 
-        "_id": "tt0264235", 
-        "slug": "curb-your-enthusiasm"
-    }, 
-    {
-        "last_updated": 1481256580620, 
-        "title": "Intelligence", 
-        "tvdb_id": "267260", 
-        "imdb_id": "tt2693776", 
-        "num_seasons": 1, 
         "year": "2014", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt2693776", 
-        "slug": "intelligence-us"
+        "_id": "tt2543312", 
+        "slug": "halt-and-catch-fire"
     }, 
     {
-        "last_updated": 1481256640192, 
+        "last_updated": 1483583114318, 
+        "title": "Workaholics", 
+        "tvdb_id": "211751", 
+        "imdb_id": "tt1610527", 
+        "num_seasons": 6, 
+        "year": "2011", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1610527", 
+        "slug": "workaholics"
+    }, 
+    {
+        "last_updated": 1483582501934, 
+        "title": "The League", 
+        "tvdb_id": "114701", 
+        "imdb_id": "tt1480684", 
+        "num_seasons": 7, 
+        "year": "2009", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1480684", 
+        "slug": "the-league"
+    }, 
+    {
+        "last_updated": 1483582018198, 
+        "title": "Chicago Fire", 
+        "tvdb_id": "258541", 
+        "imdb_id": "tt2261391", 
+        "num_seasons": 3, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2261391", 
+        "slug": "chicago-fire"
+    }, 
+    {
+        "last_updated": 1483582755307, 
+        "title": "Raising Hope", 
+        "tvdb_id": "164021", 
+        "imdb_id": "tt1615919", 
+        "num_seasons": 4, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1615919", 
+        "slug": "raising-hope"
+    }, 
+    {
+        "last_updated": 1483582130975, 
+        "title": "Curb Your Enthusiasm", 
+        "tvdb_id": "76203", 
+        "imdb_id": "tt0264235", 
+        "num_seasons": 3, 
+        "year": "2000", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0264235", 
+        "slug": "curb-your-enthusiasm"
+    }, 
+    {
+        "last_updated": 1483582491074, 
         "title": "The Last Man on Earth", 
         "tvdb_id": "281622", 
         "imdb_id": "tt3230454", 
@@ -2940,10 +2910,10 @@
         "slug": "the-last-man-on-earth"
     }, 
     {
-        "last_updated": 1481256216460, 
-        "title": "The Borgias", 
-        "tvdb_id": "187881", 
-        "imdb_id": "tt1582457", 
+        "last_updated": 1483582915528, 
+        "title": "Suburgatory", 
+        "tvdb_id": "248842", 
+        "imdb_id": "tt1741256", 
         "num_seasons": 3, 
         "year": "2011", 
         "images": {
@@ -2951,56 +2921,11 @@
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt1582457", 
-        "slug": "the-borgias"
+        "_id": "tt1741256", 
+        "slug": "suburgatory"
     }, 
     {
-        "last_updated": 1481256830082, 
-        "title": "One Tree Hill", 
-        "tvdb_id": "72158", 
-        "imdb_id": "tt0368530", 
-        "num_seasons": 5, 
-        "year": "2003", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0368530", 
-        "slug": "one-tree-hill"
-    }, 
-    {
-        "last_updated": 1481256641224, 
-        "title": "Last Resort", 
-        "tvdb_id": "255413", 
-        "imdb_id": "tt2172103", 
-        "num_seasons": 1, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2172103", 
-        "slug": "last-resort"
-    }, 
-    {
-        "last_updated": 1481256376786, 
-        "title": "Don't Trust the B---- in Apartment 23", 
-        "tvdb_id": "248812", 
-        "imdb_id": "tt1819509", 
-        "num_seasons": 2, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1819509", 
-        "slug": "dont-trust-the-b--in-apartment-23"
-    }, 
-    {
-        "last_updated": 1481241614941, 
+        "last_updated": 1483581610276, 
         "title": "11.22.63", 
         "tvdb_id": "301824", 
         "imdb_id": "tt2879552", 
@@ -3015,7 +2940,82 @@
         "slug": "112263"
     }, 
     {
-        "last_updated": 1481256737202, 
+        "last_updated": 1483581928351, 
+        "title": "The Borgias", 
+        "tvdb_id": "187881", 
+        "imdb_id": "tt1582457", 
+        "num_seasons": 3, 
+        "year": "2011", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1582457", 
+        "slug": "the-borgias"
+    }, 
+    {
+        "last_updated": 1483582686595, 
+        "title": "One Tree Hill", 
+        "tvdb_id": "72158", 
+        "imdb_id": "tt0368530", 
+        "num_seasons": 5, 
+        "year": "2003", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0368530", 
+        "slug": "one-tree-hill"
+    }, 
+    {
+        "last_updated": 1483582434216, 
+        "title": "Intelligence", 
+        "tvdb_id": "267260", 
+        "imdb_id": "tt2693776", 
+        "num_seasons": 1, 
+        "year": "2014", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2693776", 
+        "slug": "intelligence-us"
+    }, 
+    {
+        "last_updated": 1483582492150, 
+        "title": "Last Resort", 
+        "tvdb_id": "255413", 
+        "imdb_id": "tt2172103", 
+        "num_seasons": 1, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2172103", 
+        "slug": "last-resort"
+    }, 
+    {
+        "last_updated": 1483582211681, 
+        "title": "Don't Trust the B---- in Apartment 23", 
+        "tvdb_id": "248812", 
+        "imdb_id": "tt1819509", 
+        "num_seasons": 2, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1819509", 
+        "slug": "dont-trust-the-b--in-apartment-23"
+    }, 
+    {
+        "last_updated": 1483582596348, 
         "title": "The Middle", 
         "tvdb_id": "95021", 
         "imdb_id": "tt1442464", 
@@ -3030,7 +3030,7 @@
         "slug": "the-middle"
     }, 
     {
-        "last_updated": 1481257030375, 
+        "last_updated": 1483582896413, 
         "title": "Star Wars: The Clone Wars", 
         "tvdb_id": "83268", 
         "imdb_id": "tt0458290", 
@@ -3045,67 +3045,7 @@
         "slug": "star-wars-the-clone-wars"
     }, 
     {
-        "last_updated": 1481256159638, 
-        "title": "Beauty and the Beast", 
-        "tvdb_id": "258959", 
-        "imdb_id": "tt2193041", 
-        "num_seasons": 4, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2193041", 
-        "slug": "beauty-and-the-beast-2012"
-    }, 
-    {
-        "last_updated": 1481256247630, 
-        "title": "Caprica", 
-        "tvdb_id": "85040", 
-        "imdb_id": "tt0799862", 
-        "num_seasons": 1, 
-        "year": "2010", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0799862", 
-        "slug": "caprica"
-    }, 
-    {
-        "last_updated": 1481256757908, 
-        "title": "Monk", 
-        "tvdb_id": "78490", 
-        "imdb_id": "tt0312172", 
-        "num_seasons": 5, 
-        "year": "2002", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0312172", 
-        "slug": "monk"
-    }, 
-    {
-        "last_updated": 1481256203851, 
-        "title": "Blue Mountain State", 
-        "tvdb_id": "134511", 
-        "imdb_id": "tt1344204", 
-        "num_seasons": 1, 
-        "year": "2010", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1344204", 
-        "slug": "blue-mountain-state"
-    }, 
-    {
-        "last_updated": 1481256896479, 
+        "last_updated": 1483582750588, 
         "title": "Quantico", 
         "tvdb_id": "295515", 
         "imdb_id": "tt4428122", 
@@ -3120,67 +3060,67 @@
         "slug": "quantico"
     }, 
     {
-        "last_updated": 1481256936653, 
-        "title": "Rizzoli & Isles", 
-        "tvdb_id": "161461", 
-        "imdb_id": "tt1551632", 
-        "num_seasons": 7, 
+        "last_updated": 1483581835938, 
+        "title": "Beauty and the Beast", 
+        "tvdb_id": "258959", 
+        "imdb_id": "tt2193041", 
+        "num_seasons": 4, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2193041", 
+        "slug": "beauty-and-the-beast-2012"
+    }, 
+    {
+        "last_updated": 1483581905760, 
+        "title": "Blue Mountain State", 
+        "tvdb_id": "134511", 
+        "imdb_id": "tt1344204", 
+        "num_seasons": 1, 
         "year": "2010", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt1551632", 
-        "slug": "rizzoli-and-isles"
+        "_id": "tt1344204", 
+        "slug": "blue-mountain-state"
     }, 
     {
-        "last_updated": 1481241624283, 
-        "title": "12 Monkeys", 
-        "tvdb_id": "272644", 
-        "imdb_id": "tt3148266", 
-        "num_seasons": 2, 
-        "year": "2015", 
+        "last_updated": 1483582615668, 
+        "title": "Monk", 
+        "tvdb_id": "78490", 
+        "imdb_id": "tt0312172", 
+        "num_seasons": 5, 
+        "year": "2002", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt3148266", 
-        "slug": "12-monkeys"
+        "_id": "tt0312172", 
+        "slug": "monk"
     }, 
     {
-        "last_updated": 1481256177361, 
-        "title": "Better Off Ted", 
-        "tvdb_id": "84021", 
-        "imdb_id": "tt1235547", 
-        "num_seasons": 2, 
-        "year": "2009", 
+        "last_updated": 1483581982145, 
+        "title": "Caprica", 
+        "tvdb_id": "85040", 
+        "imdb_id": "tt0799862", 
+        "num_seasons": 1, 
+        "year": "2010", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt1235547", 
-        "slug": "better-off-ted"
+        "_id": "tt0799862", 
+        "slug": "caprica"
     }, 
     {
-        "last_updated": 1481257143030, 
-        "title": "The Tudors", 
-        "tvdb_id": "79925", 
-        "imdb_id": "tt0758790", 
-        "num_seasons": 4, 
-        "year": "2007", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0758790", 
-        "slug": "the-tudors"
-    }, 
-    {
-        "last_updated": 1481257152030, 
+        "last_updated": 1483583027916, 
         "title": "Unbreakable Kimmy Schmidt", 
         "tvdb_id": "281593", 
         "imdb_id": "tt3339966", 
@@ -3195,22 +3135,52 @@
         "slug": "unbreakable-kimmy-schmidt"
     }, 
     {
-        "last_updated": 1481256402889, 
-        "title": "Episodes", 
-        "tvdb_id": "123581", 
-        "imdb_id": "tt1582350", 
-        "num_seasons": 4, 
-        "year": "2011", 
+        "last_updated": 1483581611955, 
+        "title": "12 Monkeys", 
+        "tvdb_id": "272644", 
+        "imdb_id": "tt3148266", 
+        "num_seasons": 2, 
+        "year": "2015", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt1582350", 
-        "slug": "episodes"
+        "_id": "tt3148266", 
+        "slug": "12-monkeys"
     }, 
     {
-        "last_updated": 1481256628278, 
+        "last_updated": 1483582787673, 
+        "title": "Rizzoli & Isles", 
+        "tvdb_id": "161461", 
+        "imdb_id": "tt1551632", 
+        "num_seasons": 7, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1551632", 
+        "slug": "rizzoli-and-isles"
+    }, 
+    {
+        "last_updated": 1483581862926, 
+        "title": "Better Off Ted", 
+        "tvdb_id": "84021", 
+        "imdb_id": "tt1235547", 
+        "num_seasons": 2, 
+        "year": "2009", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1235547", 
+        "slug": "better-off-ted"
+    }, 
+    {
+        "last_updated": 1483582477914, 
         "title": "The Knick", 
         "tvdb_id": "279977", 
         "imdb_id": "tt2937900", 
@@ -3225,22 +3195,37 @@
         "slug": "the-knick"
     }, 
     {
-        "last_updated": 1481256523772, 
-        "title": "Hemlock Grove", 
-        "tvdb_id": "259948", 
-        "imdb_id": "tt2309295", 
-        "num_seasons": 2, 
-        "year": "2013", 
+        "last_updated": 1483583019604, 
+        "title": "The Tudors", 
+        "tvdb_id": "79925", 
+        "imdb_id": "tt0758790", 
+        "num_seasons": 4, 
+        "year": "2007", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt2309295", 
-        "slug": "hemlock-grove"
+        "_id": "tt0758790", 
+        "slug": "the-tudors"
     }, 
     {
-        "last_updated": 1481256406703, 
+        "last_updated": 1483582246545, 
+        "title": "Episodes", 
+        "tvdb_id": "123581", 
+        "imdb_id": "tt1582350", 
+        "num_seasons": 4, 
+        "year": "2011", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1582350", 
+        "slug": "episodes"
+    }, 
+    {
+        "last_updated": 1483582249344, 
         "title": "The Event", 
         "tvdb_id": "163531", 
         "imdb_id": "tt1582459", 
@@ -3255,7 +3240,22 @@
         "slug": "the-event"
     }, 
     {
-        "last_updated": 1481256917460, 
+        "last_updated": 1483582372823, 
+        "title": "Hemlock Grove", 
+        "tvdb_id": "259948", 
+        "imdb_id": "tt2309295", 
+        "num_seasons": 2, 
+        "year": "2013", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2309295", 
+        "slug": "hemlock-grove"
+    }, 
+    {
+        "last_updated": 1483582768768, 
         "title": "Reign", 
         "tvdb_id": "269602", 
         "imdb_id": "tt2710394", 
@@ -3270,67 +3270,22 @@
         "slug": "reign-2013"
     }, 
     {
-        "last_updated": 1481256379862, 
-        "title": "Dracula", 
-        "tvdb_id": "263724", 
-        "imdb_id": "tt2296682", 
-        "num_seasons": 1, 
-        "year": "2013", 
+        "last_updated": 1483582961550, 
+        "title": "The Man in the High Castle", 
+        "tvdb_id": "295829", 
+        "imdb_id": "tt1740299", 
+        "num_seasons": 2, 
+        "year": "2015", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt2296682", 
-        "slug": "dracula-2013"
+        "_id": "tt1740299", 
+        "slug": "the-man-in-the-high-castle"
     }, 
     {
-        "last_updated": 1481256651042, 
-        "title": "Law & Order: Special Victims Unit", 
-        "tvdb_id": "75692", 
-        "imdb_id": "tt0203259", 
-        "num_seasons": 5, 
-        "year": "1999", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0203259", 
-        "slug": "law-and-order-special-victims-unit"
-    }, 
-    {
-        "last_updated": 1481256973177, 
-        "title": "The Secret Circle", 
-        "tvdb_id": "248884", 
-        "imdb_id": "tt1837654", 
-        "num_seasons": 1, 
-        "year": "2011", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1837654", 
-        "slug": "the-secret-circle"
-    }, 
-    {
-        "last_updated": 1481256744702, 
-        "title": "The Mindy Project", 
-        "tvdb_id": "259007", 
-        "imdb_id": "tt2211129", 
-        "num_seasons": 4, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2211129", 
-        "slug": "the-mindy-project"
-    }, 
-    {
-        "last_updated": 1481257099581, 
+        "last_updated": 1483582971160, 
         "title": "The Shannara Chronicles", 
         "tvdb_id": "289096", 
         "imdb_id": "tt1051220", 
@@ -3345,127 +3300,37 @@
         "slug": "the-shannara-chronicles"
     }, 
     {
-        "last_updated": 1481256164127, 
-        "title": "Being Human (US)", 
-        "tvdb_id": "196921", 
-        "imdb_id": "tt1595680", 
-        "num_seasons": 4, 
-        "year": "2011", 
+        "last_updated": 1483582217731, 
+        "title": "Dracula", 
+        "tvdb_id": "263724", 
+        "imdb_id": "tt2296682", 
+        "num_seasons": 1, 
+        "year": "2013", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt1595680", 
-        "slug": "being-human-us"
+        "_id": "tt2296682", 
+        "slug": "dracula-2013"
     }, 
     {
-        "last_updated": 1481257045027, 
-        "title": "Strike Back", 
-        "tvdb_id": "148581", 
-        "imdb_id": "tt1492179", 
+        "last_updated": 1483582500825, 
+        "title": "Law & Order: Special Victims Unit", 
+        "tvdb_id": "75692", 
+        "imdb_id": "tt0203259", 
         "num_seasons": 5, 
-        "year": "2010", 
+        "year": "1999", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt1492179", 
-        "slug": "strike-back"
+        "_id": "tt0203259", 
+        "slug": "law-and-order-special-victims-unit"
     }, 
     {
-        "last_updated": 1481256341049, 
-        "title": "Dark Matter", 
-        "tvdb_id": "292174", 
-        "imdb_id": "tt4159076", 
-        "num_seasons": 2, 
-        "year": "2015", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt4159076", 
-        "slug": "dark-matter"
-    }, 
-    {
-        "last_updated": 1481256447631, 
-        "title": "Friday Night Lights", 
-        "tvdb_id": "79337", 
-        "imdb_id": "tt0758745", 
-        "num_seasons": 5, 
-        "year": "2006", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/004/254/fanarts/medium/45f883b6bc.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/004/254/posters/medium/5da63925f9.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/004/254/banners/original/3b4f944b36.jpg"
-        }, 
-        "_id": "tt0758745", 
-        "slug": "friday-night-lights"
-    }, 
-    {
-        "last_updated": 1481256219505, 
-        "title": "Boston Legal", 
-        "tvdb_id": "74058", 
-        "imdb_id": "tt0402711", 
-        "num_seasons": 4, 
-        "year": "2004", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/004/574/fanarts/medium/fa70748699.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/004/574/posters/medium/a22e5a9ed4.jpg", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0402711", 
-        "slug": "boston-legal"
-    }, 
-    {
-        "last_updated": 1481256956481, 
-        "title": "Sanctuary", 
-        "tvdb_id": "80159", 
-        "imdb_id": "tt0965394", 
-        "num_seasons": 4, 
-        "year": "2008", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0965394", 
-        "slug": "sanctuary"
-    }, 
-    {
-        "last_updated": 1481257241240, 
-        "title": "Z Nation", 
-        "tvdb_id": "280494", 
-        "imdb_id": "tt3843168", 
-        "num_seasons": 3, 
-        "year": "2014", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt3843168", 
-        "slug": "z-nation"
-    }, 
-    {
-        "last_updated": 1481256860621, 
-        "title": "Perception", 
-        "tvdb_id": "248757", 
-        "imdb_id": "tt1714204", 
-        "num_seasons": 3, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/039/777/fanarts/medium/4a9f69a99e.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/039/777/posters/medium/e13d616e7f.jpg", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1714204", 
-        "slug": "perception"
-    }, 
-    {
-        "last_updated": 1481256694112, 
+        "last_updated": 1483582552681, 
         "title": "Marvel's Luke Cage", 
         "tvdb_id": "304219", 
         "imdb_id": "tt3322314", 
@@ -3480,52 +3345,127 @@
         "slug": "luke-cage"
     }, 
     {
-        "last_updated": 1481256473388, 
-        "title": "Go On", 
-        "tvdb_id": "258616", 
-        "imdb_id": "tt2300923", 
+        "last_updated": 1483582835661, 
+        "title": "The Secret Circle", 
+        "tvdb_id": "248884", 
+        "imdb_id": "tt1837654", 
         "num_seasons": 1, 
-        "year": "2012", 
+        "year": "2011", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt2300923", 
-        "slug": "go-on"
+        "_id": "tt1837654", 
+        "slug": "the-secret-circle"
     }, 
     {
-        "last_updated": 1481256489950, 
-        "title": "Gravity Falls", 
-        "tvdb_id": "259972", 
-        "imdb_id": "tt1865718", 
+        "last_updated": 1483582149649, 
+        "title": "Dark Matter", 
+        "tvdb_id": "292174", 
+        "imdb_id": "tt4159076", 
         "num_seasons": 2, 
+        "year": "2015", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt4159076", 
+        "slug": "dark-matter"
+    }, 
+    {
+        "last_updated": 1483582603305, 
+        "title": "The Mindy Project", 
+        "tvdb_id": "259007", 
+        "imdb_id": "tt2211129", 
+        "num_seasons": 4, 
         "year": "2012", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt1865718", 
-        "slug": "gravity-falls"
+        "_id": "tt2211129", 
+        "slug": "the-mindy-project"
     }, 
     {
-        "last_updated": 1481256388489, 
-        "title": "Eastbound & Down", 
-        "tvdb_id": "82467", 
-        "imdb_id": "tt0866442", 
+        "last_updated": 1483581844921, 
+        "title": "Being Human (US)", 
+        "tvdb_id": "196921", 
+        "imdb_id": "tt1595680", 
         "num_seasons": 4, 
-        "year": "2009", 
+        "year": "2011", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt0866442", 
-        "slug": "eastbound-and-down"
+        "_id": "tt1595680", 
+        "slug": "being-human-us"
     }, 
     {
-        "last_updated": 1481256409583, 
+        "last_updated": 1483582293951, 
+        "title": "Friday Night Lights", 
+        "tvdb_id": "79337", 
+        "imdb_id": "tt0758745", 
+        "num_seasons": 5, 
+        "year": "2006", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0758745", 
+        "slug": "friday-night-lights"
+    }, 
+    {
+        "last_updated": 1483582912610, 
+        "title": "Strike Back", 
+        "tvdb_id": "148581", 
+        "imdb_id": "tt1492179", 
+        "num_seasons": 5, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1492179", 
+        "slug": "strike-back"
+    }, 
+    {
+        "last_updated": 1483581933456, 
+        "title": "Boston Legal", 
+        "tvdb_id": "74058", 
+        "imdb_id": "tt0402711", 
+        "num_seasons": 4, 
+        "year": "2004", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0402711", 
+        "slug": "boston-legal"
+    }, 
+    {
+        "last_updated": 1483583145418, 
+        "title": "Z Nation", 
+        "tvdb_id": "280494", 
+        "imdb_id": "tt3843168", 
+        "num_seasons": 3, 
+        "year": "2014", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt3843168", 
+        "slug": "z-nation"
+    }, 
+    {
+        "last_updated": 1483582252421, 
         "title": "The Expanse", 
         "tvdb_id": "280619", 
         "imdb_id": "tt3230854", 
@@ -3540,37 +3480,22 @@
         "slug": "the-expanse"
     }, 
     {
-        "last_updated": 1481256131596, 
-        "title": "Awake", 
-        "tvdb_id": "248735", 
-        "imdb_id": "tt1839683", 
-        "num_seasons": 1, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/039/195/fanarts/medium/02fa2db38e.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/039/195/posters/medium/8946288f9f.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/039/195/banners/original/41f9dfe2dd.jpg"
-        }, 
-        "_id": "tt1839683", 
-        "slug": "awake"
-    }, 
-    {
-        "last_updated": 1481256094414, 
-        "title": "An Idiot Abroad", 
-        "tvdb_id": "187071", 
-        "imdb_id": "tt1702042", 
-        "num_seasons": 3, 
-        "year": "2010", 
+        "last_updated": 1483582809460, 
+        "title": "Sanctuary", 
+        "tvdb_id": "80159", 
+        "imdb_id": "tt0965394", 
+        "num_seasons": 4, 
+        "year": "2008", 
         "images": {
             "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
             "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt1702042", 
-        "slug": "an-idiot-abroad"
+        "_id": "tt0965394", 
+        "slug": "sanctuary"
     }, 
     {
-        "last_updated": 1481256555850, 
+        "last_updated": 1483582407599, 
         "title": "Humans", 
         "tvdb_id": "292124", 
         "imdb_id": "tt4122068", 
@@ -3585,7 +3510,97 @@
         "slug": "humans"
     }, 
     {
-        "last_updated": 1481256654214, 
+        "last_updated": 1483582336656, 
+        "title": "Gravity Falls", 
+        "tvdb_id": "259972", 
+        "imdb_id": "tt1865718", 
+        "num_seasons": 2, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1865718", 
+        "slug": "gravity-falls"
+    }, 
+    {
+        "last_updated": 1483582715524, 
+        "title": "Perception", 
+        "tvdb_id": "248757", 
+        "imdb_id": "tt1714204", 
+        "num_seasons": 3, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1714204", 
+        "slug": "perception"
+    }, 
+    {
+        "last_updated": 1483582321355, 
+        "title": "Go On", 
+        "tvdb_id": "258616", 
+        "imdb_id": "tt2300923", 
+        "num_seasons": 1, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2300923", 
+        "slug": "go-on"
+    }, 
+    {
+        "last_updated": 1483582229866, 
+        "title": "Eastbound & Down", 
+        "tvdb_id": "82467", 
+        "imdb_id": "tt0866442", 
+        "num_seasons": 4, 
+        "year": "2009", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt0866442", 
+        "slug": "eastbound-and-down"
+    }, 
+    {
+        "last_updated": 1483581788818, 
+        "title": "Awake", 
+        "tvdb_id": "248735", 
+        "imdb_id": "tt1839683", 
+        "num_seasons": 1, 
+        "year": "2012", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1839683", 
+        "slug": "awake"
+    }, 
+    {
+        "last_updated": 1483581744391, 
+        "title": "An Idiot Abroad", 
+        "tvdb_id": "187071", 
+        "imdb_id": "tt1702042", 
+        "num_seasons": 3, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1702042", 
+        "slug": "an-idiot-abroad"
+    }, 
+    {
+        "last_updated": 1483582504823, 
         "title": "Legend of the Seeker", 
         "tvdb_id": "82672", 
         "imdb_id": "tt0844653", 
@@ -3600,7 +3615,7 @@
         "slug": "legend-of-the-seeker"
     }, 
     {
-        "last_updated": 1481256662611, 
+        "last_updated": 1483582517077, 
         "title": "Life", 
         "tvdb_id": "80352", 
         "imdb_id": "tt0874936", 
@@ -3615,7 +3630,7 @@
         "slug": "life"
     }, 
     {
-        "last_updated": 1481256572395, 
+        "last_updated": 1483582423883, 
         "title": "In the Flesh", 
         "tvdb_id": "261742", 
         "imdb_id": "tt2480514", 
@@ -3630,22 +3645,7 @@
         "slug": "in-the-flesh"
     }, 
     {
-        "last_updated": 1481256202665, 
-        "title": "Blue Bloods", 
-        "tvdb_id": "164981", 
-        "imdb_id": "tt1595859", 
-        "num_seasons": 4, 
-        "year": "2010", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1595859", 
-        "slug": "blue-bloods"
-    }, 
-    {
-        "last_updated": 1481256953705, 
+        "last_updated": 1483582806818, 
         "title": "Salem", 
         "tvdb_id": "274897", 
         "imdb_id": "tt2963254", 
@@ -3660,67 +3660,67 @@
         "slug": "salem"
     }, 
     {
-        "last_updated": 1481256923442, 
+        "last_updated": 1483581915493, 
+        "title": "BoJack Horseman", 
+        "tvdb_id": "282254", 
+        "imdb_id": "tt3398228", 
+        "num_seasons": 2, 
+        "year": "2014", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt3398228", 
+        "slug": "bojack-horseman"
+    }, 
+    {
+        "last_updated": 1483582962867, 
+        "title": "The Night Of", 
+        "tvdb_id": "310516", 
+        "imdb_id": "tt2401256", 
+        "num_seasons": 1, 
+        "year": "2016", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt2401256", 
+        "slug": "the-night-of"
+    }, 
+    {
+        "last_updated": 1483581904832, 
+        "title": "Blue Bloods", 
+        "tvdb_id": "164981", 
+        "imdb_id": "tt1595859", 
+        "num_seasons": 4, 
+        "year": "2010", 
+        "images": {
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
+        }, 
+        "_id": "tt1595859", 
+        "slug": "blue-bloods"
+    }, 
+    {
+        "last_updated": 1483582774254, 
         "title": "Resurrection", 
         "tvdb_id": "269650", 
         "imdb_id": "tt2647586", 
         "num_seasons": 2, 
         "year": "2014", 
         "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/051/046/fanarts/medium/dbde1bf874.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/051/046/posters/medium/2d93ca264c.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/051/046/banners/original/4e709f420c.jpg"
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
         "_id": "tt2647586", 
         "slug": "resurrection"
     }, 
     {
-        "last_updated": 1481241804593, 
-        "title": "666 Park Avenue", 
-        "tvdb_id": "256204", 
-        "imdb_id": "tt2197797", 
-        "num_seasons": 1, 
-        "year": "2012", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt2197797", 
-        "slug": "666-park-avenue"
-    }, 
-    {
-        "last_updated": 1481256818095, 
-        "title": "Numb3rs", 
-        "tvdb_id": "73918", 
-        "imdb_id": "tt0433309", 
-        "num_seasons": 4, 
-        "year": "2006", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt0433309", 
-        "slug": "numb3rs"
-    }, 
-    {
-        "last_updated": 1481241866259, 
-        "title": "90210", 
-        "tvdb_id": "82716", 
-        "imdb_id": "tt1225901", 
-        "num_seasons": 5, 
-        "year": "2009", 
-        "images": {
-            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
-            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
-        }, 
-        "_id": "tt1225901", 
-        "slug": "90210"
-    }, 
-    {
-        "last_updated": 1481256880703, 
+        "last_updated": 1483582734346, 
         "title": "Preacher", 
         "tvdb_id": "300472", 
         "imdb_id": "tt5016504", 
@@ -3735,18 +3735,18 @@
         "slug": "preacher"
     }, 
     {
-        "last_updated": 1481256165483, 
-        "title": "Believe", 
-        "tvdb_id": "267258", 
-        "imdb_id": "tt2592094", 
+        "last_updated": 1483582373876, 
+        "title": "Heroes Reborn", 
+        "tvdb_id": "279201", 
+        "imdb_id": "tt3556944", 
         "num_seasons": 1, 
-        "year": "2014", 
+        "year": "2015", 
         "images": {
-            "fanart": "https://walter.trakt.us/images/shows/000/060/192/fanarts/medium/030c1a2251.jpg", 
-            "poster": "https://walter.trakt.us/images/shows/000/060/192/posters/medium/a187048a84.jpg", 
-            "banner": "https://walter.trakt.us/images/shows/000/060/192/banners/original/acbaca6c63.jpg"
+            "fanart": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png", 
+            "banner": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Popcorn_Time_logo.png"
         }, 
-        "_id": "tt2592094", 
-        "slug": "believe"
+        "_id": "tt3556944", 
+        "slug": "heroes-reborn"
     }
 ]

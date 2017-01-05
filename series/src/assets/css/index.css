@@ -1,0 +1,45 @@
+.content {
+    height: calc(100vh - 162px);
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.content form {
+    width: 30%;
+    min-width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content form input[type=text] {
+    width: 100%;
+    padding: 12px 0;
+    margin: 8px 0;
+    border: none;
+    border-bottom: 2px solid whitesmoke;
+    background-color: transparent;
+    font-size: 2rem;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.content form input[type=text]:focus {
+    outline: none;
+}
+
+.content form button[type=submit] {
+    width: 100%;
+    background-color: transparent;
+    border: 2px solid whitesmoke;
+    padding: 16px 0;
+    text-decoration: none;
+    margin: 4px 0;
+    cursor: pointer;
+    font-size: 2rem;
+    color: whitesmoke;
+}

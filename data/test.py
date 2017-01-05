@@ -24,12 +24,36 @@ headers = {
 
 new_final = ""
 for series in final:
-    request = Request("https://api.trakt.tv/shows/"+series['imdb_id']+"?extended=full", headers=headers)
-    response_body = urlopen(request).read()
-    new_final = new_final + response_body + ","
+    try:
+        request = Request("https://api.trakt.tv/shows/"+series['imdb_id']+"?extended=full", headers=headers)
+        response_body = urlopen(request).read()
+        tmp = json.loads(response_body)
+
+        try:
+            new_request = Request("http://www.omdbapi.com/?i="+series['imdb_id'])
+            new_response_body = urlopen(new_request).read()
+            new_tmp = json.loads(new_response_body)
+
+            tmp['poster'] = new_tmp['Poster']
+
+            new_request = Request("https://api.trakt.tv/shows/"+series['imdb_id']+"/people", headers=headers)
+            new_response_body = urlopen(new_request).read()
+            new_tmp = json.loads(new_response_body)
+
+            tmp['cast'] = new_tmp['cast']
+            tmp['crew'] = new_tmp['crew']
+
+            new_final = new_final + json.dumps(tmp) + ","
+        except Exception, Argument:
+            print Argument
+            new_final = new_final + json.dumps(tmp) + ","
+
+    except Exception, Argument:
+        print Argument
+        print series['slug']
 
 new_final = "[" + new_final[:-1] + "]"
 new_final = json.loads(new_final)
 
-with open("trakt_series.json","w") as file:
+with open("series.json","w") as file:
     file.write(json.dumps(new_final, indent=4))
