@@ -456,8 +456,8 @@ public class Web {
                 +" FILTER (regex(?y, '^.*" + query.getName().toLowerCase() + ".*$', 'i')) "
                 +" FILTER not exists { ?s <series:name> ?y } "
                 +" } ";
-        try (QueryExecution qexec = QueryExecutionFactory.create(queryString, model)) {
-            ResultSet results = qexec.execSelect();
+            try (QueryExecution qexec = QueryExecutionFactory.create(queryString, model)) {
+                ResultSet results = qexec.execSelect();
             while (results.hasNext()) {
                 result.add(results.nextSolution().getLiteral("name").getString());
             }
@@ -603,7 +603,7 @@ public class Web {
             }
         }
 
-        pattern = Pattern.compile(".*series by (\\w+)", Pattern.CASE_INSENSITIVE);
+        pattern = Pattern.compile(".*series by ((\\w\\s?)+)", Pattern.CASE_INSENSITIVE);
         matcher = pattern.matcher(query);
 
         if(matcher.find()) {
@@ -629,7 +629,7 @@ public class Web {
             }
         }
 
-        pattern = Pattern.compile(".*series.* with (\\w+)", Pattern.CASE_INSENSITIVE);
+        pattern = Pattern.compile(".*series.* with ((\\w\\s?)+)", Pattern.CASE_INSENSITIVE);
         matcher = pattern.matcher(query);
 
         if(matcher.find()) {
