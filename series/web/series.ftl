@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Please, work</title>
+    <title>SSRSD</title>
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <link rel="stylesheet" type="text/css" href="css/series.css" />
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />

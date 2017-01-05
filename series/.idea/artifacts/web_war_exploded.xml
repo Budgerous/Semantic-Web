@@ -6,9 +6,14 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="web" />
+          <element id="module-output" name="series" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="jstl:jstl:1.2" />
+          <element id="library" level="project" name="jena" />
+          <element id="library" level="project" name="org.json:json:20160810" />
+          <element id="library" level="project" name="com.sparkjava:spark-core:2.5.4" />
+          <element id="library" level="project" name="com.sparkjava:spark-template-freemarker:2.3" />
         </element>
       </element>
     </root>

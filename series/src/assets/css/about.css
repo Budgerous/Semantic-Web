@@ -1,0 +1,19 @@
+.content {
+    height: calc(100vh - 162px);
+    width: 60vw;
+    margin: 30px 20vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.content h1 {
+    font-size: 3rem;
+    line-height: 4rem;
+}
+
+.content p {
+    font-size: 2rem;
+    line-height: 3rem;
+}

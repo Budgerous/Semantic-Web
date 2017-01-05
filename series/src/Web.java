@@ -35,6 +35,10 @@ public class Web {
             return freeMarkerEngine.render(new ModelAndView(null, "web/index.ftl"));
         });
 
+        get("/about", (request, response) -> {
+            return freeMarkerEngine.render(new ModelAndView(null, "web/about.ftl"));
+        });
+
         get("/search", (request, response) -> {
             Map<String, Object> attributes = new HashMap<>();
 
@@ -619,6 +623,8 @@ public class Web {
                     +" { OPTIONAL { ?s <series:hasDirector> ?d . ?d <series:name> ?find } }  "
                     +" UNION "
                     +" { OPTIONAL { ?s <series:hasProducer> ?p . ?p <series:name> ?find } }  "
+                    +" UNION "
+                    +" { OPTIONAL { ?s <series:hasWriter> ?d . ?d <series:name> ?find } }  "
                     +" FILTER (regex(?find, '^.*" + find.toLowerCase() + ".*$', 'i')) "
                     +" } ";
             try (QueryExecution qexec = QueryExecutionFactory.create(queryString, model)) {
