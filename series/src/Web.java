@@ -39,7 +39,7 @@ public class Web {
             Map<String, Object> attributes = new HashMap<>();
 
             try {
-                String query = request.queryParams("query");
+                String query = request.queryParams("query").replace("'","\\'");
 
                 ArrayList<String> semSearch = semSearch(query);
                 attributes.put("query", query);
@@ -63,7 +63,7 @@ public class Web {
             Map<String, Object> attributes = new HashMap<>();
 
             try {
-                String query = request.queryParams("query");
+                String query = request.queryParams("query").replace("'","\\'");
 
                 attributes.put("searchSeries", searchSeriesByRating(query));
                 attributes.put("query", query);
@@ -78,7 +78,7 @@ public class Web {
             Map<String, Object> attributes = new HashMap<>();
 
             try {
-                String query = request.queryParams("query");
+                String query = request.queryParams("query").replace("'","\\'");
 
                 attributes.put("searchSeries", searchSeriesByNetwork(query));
                 attributes.put("query", query);
@@ -93,7 +93,7 @@ public class Web {
             Map<String, Object> attributes = new HashMap<>();
 
             try {
-                String query = request.queryParams("query");
+                String query = request.queryParams("query").replace("'","\\'");
 
                 attributes.put("searchSeries", searchSeriesByGenre(query));
                 attributes.put("query", query);
@@ -108,7 +108,7 @@ public class Web {
             Map<String, Object> attributes = new HashMap<>();
 
             try {
-                String query = request.queryParams("query");
+                String query = request.queryParams("query").replace("'","\\'");
 
                 attributes.put("searchSeries", searchSeriesByPeople(query));
                 attributes.put("query", query);
@@ -123,7 +123,7 @@ public class Web {
             Map<String, Object> attributes = new HashMap<>();
 
             try {
-                String query = request.queryParams("query");
+                String query = request.queryParams("query").replace("'","\\'");
                 Series master = getSeries(query);
 
                 attributes.put("series", master);
@@ -446,6 +446,8 @@ public class Web {
         model.setNsPrefix("series", "http://www.semanticweb.org/pedro/ontologies/2016/11/series#");
         model.setNsPrefix("rdfs", "http://www.w3.org/2000/01/rdf-schema#");
 
+        String name = query.getName().replace("'","\\'").toLowerCase();
+
         ArrayList<String> result = new ArrayList<>();
         String queryString;
 
@@ -453,7 +455,7 @@ public class Web {
                 +" ?s <rdfs:label> 'Series' . ?s <series:name> ?name . "
                 +" ?query <series:name> ?y . "
                 +" ?s <series:hasGenre> ?g . ?g <series:isGenreOf> ?query "
-                +" FILTER (regex(?y, '^.*" + query.getName().toLowerCase() + ".*$', 'i')) "
+                +" FILTER (regex(?y, '^.*" + name + ".*$', 'i')) "
                 +" FILTER not exists { ?s <series:name> ?y } "
                 +" } ";
             try (QueryExecution qexec = QueryExecutionFactory.create(queryString, model)) {
@@ -469,7 +471,7 @@ public class Web {
                 +" ?s <rdfs:label> 'Series' . ?s <series:name> ?name . "
                 +" ?query <series:name> ?y . "
                 +" ?s <series:hasActor> ?g . ?g <series:isActorOn> ?query "
-                +" FILTER (regex(?y, '^.*" + query.getName().toLowerCase() + ".*$', 'i')) "
+                +" FILTER (regex(?y, '^.*" + name + ".*$', 'i')) "
                 +" FILTER not exists { ?s <series:name> ?y } "
                 +" } ";
         try (QueryExecution qexec = QueryExecutionFactory.create(queryString, model)) {
@@ -485,7 +487,7 @@ public class Web {
                 +" ?s <rdfs:label> 'Series' . ?s <series:name> ?name . "
                 +" ?query <series:name> ?y . "
                 +" ?s <series:isFromNetwork> ?g . ?g <series:broadcasts> ?query "
-                +" FILTER (regex(?y, '^.*" + query.getName().toLowerCase() + ".*$', 'i')) "
+                +" FILTER (regex(?y, '^.*" + name + ".*$', 'i')) "
                 +" FILTER not exists { ?s <series:name> ?y } "
                 +" } ";
         try (QueryExecution qexec = QueryExecutionFactory.create(queryString, model)) {
@@ -501,7 +503,7 @@ public class Web {
                 +" ?s <rdfs:label> 'Series' . ?s <series:name> ?name . "
                 +" ?query <series:name> ?y . "
                 +" ?s <series:rating> ?g . ?query <series:rating> ?g "
-                +" FILTER (regex(?y, '^.*" + query.getName().toLowerCase() + ".*$', 'i')) "
+                +" FILTER (regex(?y, '^.*" + name + ".*$', 'i')) "
                 +" FILTER not exists { ?s <series:name> ?y } "
                 +" } ";
         try (QueryExecution qexec = QueryExecutionFactory.create(queryString, model)) {
@@ -517,7 +519,7 @@ public class Web {
                 +" ?s <rdfs:label> 'Series' . ?s <series:name> ?name . "
                 +" ?query <series:name> ?y . "
                 +" ?s <series:hasDirector> ?g . ?g <series:isActorOn> ?query "
-                +" FILTER (regex(?y, '^.*" + query.getName().toLowerCase() + ".*$', 'i')) "
+                +" FILTER (regex(?y, '^.*" + name + ".*$', 'i')) "
                 +" FILTER not exists { ?s <series:name> ?y } "
                 +" } ";
         try (QueryExecution qexec = QueryExecutionFactory.create(queryString, model)) {
@@ -533,7 +535,7 @@ public class Web {
                 +" ?s <rdfs:label> 'Series' . ?s <series:name> ?name . "
                 +" ?query <series:name> ?y . "
                 +" ?s <series:hasProducer> ?g . ?g <series:isProducerOn> ?query "
-                +" FILTER (regex(?y, '^.*" + query.getName().toLowerCase() + ".*$', 'i')) "
+                +" FILTER (regex(?y, '^.*" + name + ".*$', 'i')) "
                 +" FILTER not exists { ?s <series:name> ?y } "
                 +" } ";
         try (QueryExecution qexec = QueryExecutionFactory.create(queryString, model)) {
@@ -603,7 +605,7 @@ public class Web {
             }
         }
 
-        pattern = Pattern.compile(".*series by ((\\w\\s?)+)", Pattern.CASE_INSENSITIVE);
+        pattern = Pattern.compile(".*series by (\\w+)", Pattern.CASE_INSENSITIVE);
         matcher = pattern.matcher(query);
 
         if(matcher.find()) {

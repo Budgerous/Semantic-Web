@@ -13,11 +13,7 @@
         </div>
         <div class="nav-item nav-search">
             <form method="get" action="search">
-                <#if query?has_content>
-                    <input type="text" name="query" autocomplete="off" placeholder="Search..." value="${query}"/>
-                <#else>
-                    <input type="text" name="query" autocomplete="off" placeholder="Search..." />
-                </#if>
+                <input type="text" name="query" autocomplete="off" placeholder="Search..." />
             </form>
         </div>
         <div class="nav-item about">
